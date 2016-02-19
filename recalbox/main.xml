@@ -1,0 +1,93 @@
+<theme>
+    <formatVersion>4</formatVersion>
+
+	<view name="system">
+		<image name="background" extra="true">
+			<tile>true</tile>
+			<size>1 1</size>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<path>./data/background.png</path>
+		</image>
+		<image name="bands" extra="true">
+			<size>0.12 1</size>
+			<pos>0.80 0</pos>
+			<origin>0 0</origin>
+		</image>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="background" extra="true">
+			<tile>true</tile>
+			<size>1 1</size>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<path>./data/background.png</path>
+		</image>
+		<image name="bands" extra="true">
+			<size>0.12 1</size>
+			<pos>0.80 0</pos>
+			<origin>0 0</origin>
+		</image>
+		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite">
+			<color>4d4d4d</color>
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./data/ubuntu_condensed.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+			<size>0.12 0.04</size>
+		</text>
+		<text name="md_developer, md_publisher, md_genre, md_players, md_playcount, md_favorite, md_rating">
+			<color>4d4d4d</color>
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./data/ubuntu_condensed.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+			<size>0.12 0.04</size>
+		</text>
+		<text name="md_description">
+			<color>4d4d4d</color>
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./data/ubuntu_condensed.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+		</text>
+		<datetime name="md_releasedate, md_lastplayed">
+			<color>4d4d4d</color>
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./data/ubuntu_condensed.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+			<size>0 0.04</size>
+		</datetime>
+		<textlist name="gamelist">
+			<selectorColor>4d4d4d</selectorColor>
+			<selectedColor>9f9f9f</selectedColor>
+			<primaryColor>4d4d4d</primaryColor>
+			<secondaryColor>2b2b2b</secondaryColor>
+			<fontPath>./data/ubuntu_condensed.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+			<forceUppercase>1</forceUppercase>
+		</textlist>
+	</view>	
+
+	<view name="basic">
+		<image name="backtext1" extra="true">
+			<pos>0 0.3</pos>
+			<size>1 0.55</size>
+			<origin>0 0</origin>
+			<path>./data/back90.png</path>
+		</image>
+	</view>
+
+	<view name="detailed">
+		<image name="backtext2" extra="true">
+			<pos>0.02 0.19</pos>
+			<size>0.4 0.735</size>
+			<origin>0 0</origin>
+			<path>./data/back90.png</path>
+		</image>
+		<image name="backtext3" extra="true">
+			<pos>0.44 0.19</pos>
+			<size>0.54 0.735</size>
+			<origin>0 0</origin>
+			<path>./data/back90.png</path>
+		</image>
+	</view>
+</theme>
