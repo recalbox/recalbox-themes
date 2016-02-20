@@ -9,9 +9,24 @@
 			<origin>0 0</origin>
 			<path>./data/background.png</path>
 		</image>
-		<image name="bands" extra="true">
-			<size>0.12 1</size>
+		<image name="band1" extra="true">
+			<size>0.03 1</size>
 			<pos>0.80 0</pos>
+			<origin>0 0</origin>
+		</image>
+		<image name="band2" extra="true">
+			<size>0.03 1</size>
+			<pos>0.83 0</pos>
+			<origin>0 0</origin>
+		</image>
+		<image name="band3" extra="true">
+			<size>0.03 1</size>
+			<pos>0.86 0</pos>
+			<origin>0 0</origin>
+		</image>
+		<image name="band4" extra="true">
+			<size>0.03 1</size>
+			<pos>0.89 0</pos>
 			<origin>0 0</origin>
 		</image>
 	</view>
@@ -24,9 +39,24 @@
 			<origin>0 0</origin>
 			<path>./data/background.png</path>
 		</image>
-		<image name="bands" extra="true">
-			<size>0.12 1</size>
+		<image name="band1" extra="true">
+			<size>0.03 1</size>
 			<pos>0.80 0</pos>
+			<origin>0 0</origin>
+		</image>
+		<image name="band2" extra="true">
+			<size>0.03 1</size>
+			<pos>0.83 0</pos>
+			<origin>0 0</origin>
+		</image>
+		<image name="band3" extra="true">
+			<size>0.03 1</size>
+			<pos>0.86 0</pos>
+			<origin>0 0</origin>
+		</image>
+		<image name="band4" extra="true">
+			<size>0.03 1</size>
+			<pos>0.89 0</pos>
 			<origin>0 0</origin>
 		</image>
 		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite">
@@ -69,8 +99,8 @@
 
 	<view name="basic">
 		<image name="backtext1" extra="true">
-			<pos>0 0.3</pos>
-			<size>1 0.55</size>
+			<pos>0 0.19</pos>
+			<size>1 0.735</size>
 			<origin>0 0</origin>
 			<path>./data/back90.png</path>
 		</image>
