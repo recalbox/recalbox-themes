@@ -36,18 +36,121 @@
 			<maxSize>0.15 0.10</maxSize>
 			<origin>0 1</origin>
 		</image>
+<!-- text top right corner - controler bottom right corner -->
 		<!-- <image name="logo2" extra="true">
 			<path>./data/logo.svg</path>
 			<pos>0.19 0.17</pos>
 			<maxSize>0.25 0.12</maxSize>
 			<origin>0 1</origin>
 		</image> -->
-		<image name="controller" extra="true">
+		<!--<image name="controller" extra="true">
 			<path>./data/controller.svg</path>
 			<pos>0.78 0.98</pos>
 			<maxSize>0.15 0.25</maxSize>
 			<origin>1 1</origin>
 		</image>
+		<image name="backtext" extra="true">
+			<color>9F9F9F</color>
+		</image> 
+		<text name="manufacturer" extra="true">
+			<text>Manufacturer : Nintendo</text>
+			<pos>0.53 0.06</pos>
+		</text>
+		<text name="year_release" extra="true">
+			<text>Year of Release : 1990</text>
+			<pos>0.53 0.08</pos>
+		</text>
+		<text name="units_sold" extra="true">
+			<text>Units sold : 49.10 million</text>
+			<pos>0.53 0.10</pos>
+		</text>
+		<text name="best_selling" extra="true">
+			<text>Best-selling game : Super Mario</text>
+			<pos>0.53 0.12</pos>
+		</text>
+		<text name="cpu" extra="true">
+			<text>CPU : 16-bit Custom 64C816</text>
+			<pos>0.53 0.14</pos>
+		</text>
+		<text name="ram" extra="true">
+			<text>RAM : 1 Mbit (128 Kbyte)</text>
+			<pos>0.53 0.18</pos>
+		</text>
+		<text name="cycle" extra="true">
+			<text>Memory Cycle Time : 279 ms</text>
+			<pos>0.53 0.20</pos>
+		</text>
+		<text name="bits" extra="true">
+			<text>Picture Processor Unit : 16-bit</text>
+			<pos>0.53 0.22</pos>
+		</text>
+		<text name="vram" extra="true">
+			<text>Video RAM : 0.5 Mbit (64 Kbyte)</text>
+			<pos>0.53 0.24</pos>
+		</text>
+		<text name="aram" extra="true">
+			<text>Audio RAM : 512 Kbit</text>
+			<pos>0.53 0.26</pos>
+		</text>
+		<text name="sound_chip" extra="true">
+			<text>Sound chip :  8-bit Sony SPC700Samples</text>
+			<pos>0.53 0.28</pos>
+		</text>-->
+
+<!-- text bottom right corner - controler top right corner -->
+		<image name="controller" extra="true">
+			<path>./data/controller.svg</path>
+			<pos>0.78 0.30</pos>
+			<maxSize>0.15 0.25</maxSize>
+			<origin>1 1</origin>
+		</image>
+		<image name="backtext" extra="true">
+			<color>9F9F9F</color>
+		</image> 
+		<text name="manufacturer" extra="true">
+			<text>Manufacturer : Nintendo</text>
+			<pos>0.53 0.72</pos>
+		</text>
+		<text name="year_release" extra="true">
+			<text>Year of Release : 1990</text>
+			<pos>0.53 0.74</pos>
+		</text>
+		<text name="units_sold" extra="true">
+			<text>Units sold : 49.10 million</text>
+			<pos>0.53 0.76</pos>
+		</text>
+		<text name="best_selling" extra="true">
+			<text>Best-selling game : Super Mario</text>
+			<pos>0.53 0.78</pos>
+		</text>
+		<text name="cpu" extra="true">
+			<text>CPU : 16-bit Custom 64C816</text>
+			<pos>0.53 0.82</pos>
+		</text>
+		<text name="ram" extra="true">
+			<text>RAM : 1 Mbit (128 Kbyte)</text>
+			<pos>0.53 0.84</pos>
+		</text>
+		<text name="cycle" extra="true">
+			<text>Memory Cycle Time : 279 ms</text>
+			<pos>0.53 0.86</pos>
+		</text>
+		<text name="bits" extra="true">
+			<text>Picture Processor Unit : 16-bit</text>
+			<pos>0.53 0.88</pos>
+		</text>
+		<text name="vram" extra="true">
+			<text>Video RAM : 0.5 Mbit (64 Kbyte)</text>
+			<pos>0.53 0.90</pos>
+		</text>
+		<text name="aram" extra="true">
+			<text>Audio RAM : 512 Kbit</text>
+			<pos>0.53 0.92</pos>
+		</text>
+		<text name="sound_chip" extra="true">
+			<text>Sound chip :  8-bit Sony SPC700Samples</text>
+			<pos>0.53 0.94</pos>
+		</text>
 	</view>
 
 	<view name="basic, detailed">

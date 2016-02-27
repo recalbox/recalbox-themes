@@ -29,6 +29,19 @@
 			<pos>0.89 0</pos>
 			<origin>0 0</origin>
 		</image>
+		<image name="backtext" extra="true">
+			<pos>0.52 0.98</pos>
+			<size>0.27 0.27</size>
+			<origin>0 1</origin>
+			<path>./data/back90.png</path>
+		</image>
+		<text name="manufacturer, year_release, units_sold, best_selling, cpu, ram, cycle, bits, vram, aram, sound_chip" extra="true">
+			<color>4d4d4d</color>
+			<alignment>left</alignment>
+			<fontPath>./data/ubuntu_bold.ttf</fontPath>
+			<fontSize>0.02</fontSize>
+			<size>0.25 0.03</size>
+		</text>
 	</view>
 
 	<view name="basic, detailed">
