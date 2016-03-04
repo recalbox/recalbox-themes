@@ -2,6 +2,9 @@
     <formatVersion>4</formatVersion>
 
 	<view name="system">
+		<sound name="directory">
+                        <path>./music</path>
+                </sound>
 		<image name="background" extra="true">
 			<tile>true</tile>
 			<size>1 1</size>
