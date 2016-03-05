@@ -1,0 +1,83 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<image name="background" extra="true">
+		</image>
+		<image name="band1" extra="true">
+			<color>5E9EC4</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>CA6869</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>5E9D81</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>BC82A1</color>
+		</image>
+		<text name="manufacturer" extra="true">
+			<text>Manufacturer : Sony Computer Entertainment</text>
+			<pos>0.45 0.72</pos>
+		</text>
+		<text name="year_release" extra="true">
+			<text>Year of Release : 1994</text>
+			<pos>0.45 0.74</pos>
+		</text>
+		<text name="units_sold" extra="true">
+			<text>Units sold : 102.48 million</text>
+			<pos>0.45 0.76</pos>
+		</text>
+		<text name="best_selling" extra="true">
+			<text>Best-selling game : Gran Turismo</text>
+			<pos>0.45 0.78</pos>
+		</text>
+		<text name="cpu" extra="true">
+			<text>CPU : 32-bit R3000A RISC running at 33.8688 Mhz </text>
+			<pos>0.45 0.82</pos>
+		</text>
+		<text name="ram" extra="true">
+			<text>RAM : 16 Mbits</text>
+			<pos>0.45 0.84</pos>
+		</text>
+		<text name="bits" extra="true">
+			<text>Picture Processor Unit : 32-bit</text>
+			<pos>0.45 0.86</pos>
+		</text>
+		<text name="vram" extra="true">
+			<text>Video RAM : 8 Mbits</text>
+			<pos>0.45 0.88</pos>
+		</text>
+		<text name="aram" extra="true">
+			<text>Audio RAM : 4 Mbits</text>
+			<pos>0.45 0.90</pos>
+		</text>
+		<text name="gpu" extra="true">
+			<text>GPU : GFX processor unit</text>
+			<pos>0.45 0.92</pos>
+		</text>
+		<text name="sound_chip" extra="true">
+			<text>Sound :  ADCPM 24 channels 44.1 Khz sampling frequency</text>
+			<pos>0.45 0.94</pos>
+		</text>
+		<text name="media" extra="true">
+			<text>CDROM : XA2 double speed CD-ROM, 256K CD-ROM buffer</text>
+			<pos>0.45 0.96</pos>
+		</text>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="band1" extra="true">
+			<color>5E9EC4</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>CA6869</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>5E9D81</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>BC82A1</color>
+		</image>
+	</view>
+</theme>
