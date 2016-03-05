@@ -1,49 +1,51 @@
 <theme>
-    <formatVersion>4</formatVersion>
+	<formatVersion>4</formatVersion>
 
 	<view name="system">
 		<sound name="directory">
-                        <path>./music</path>
-                </sound>
+			<path>./music</path>
+		</sound>
 		<image name="background" extra="true">
 			<tile>true</tile>
 			<size>1 1</size>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
-			<path>./data/background.png</path>
+			<path>./data/background2.png</path>
 		</image>
+		<helpsystem name="help">
+			<textColor>262626</textColor>
+			<iconColor>262626</iconColor>
+		</helpsystem>
 		<image name="band1" extra="true">
 			<size>0.03 1</size>
 			<pos>0.80 0</pos>
 			<origin>0 0</origin>
+			<path>./data/band.png</path>
 		</image>
 		<image name="band2" extra="true">
 			<size>0.03 1</size>
-			<pos>0.83 0</pos>
+			<pos>0.829 0</pos>
 			<origin>0 0</origin>
+			<path>./data/band.png</path>
 		</image>
 		<image name="band3" extra="true">
 			<size>0.03 1</size>
-			<pos>0.86 0</pos>
+			<pos>0.858 0</pos>
 			<origin>0 0</origin>
+			<path>./data/band.png</path>
 		</image>
 		<image name="band4" extra="true">
 			<size>0.03 1</size>
-			<pos>0.89 0</pos>
+			<pos>0.887 0</pos>
 			<origin>0 0</origin>
+			<path>./data/band.png</path>
 		</image>
-		<image name="backtext" extra="true">
-			<pos>0.52 0.98</pos>
-			<size>0.27 0.27</size>
-			<origin>0 1</origin>
-			<path>./data/back90.png</path>
-		</image>
-		<text name="manufacturer, year_release, units_sold, best_selling, cpu, ram, cycle, bits, vram, aram, sound_chip" extra="true">
-			<color>4d4d4d</color>
+		<text name="manufacturer, year_release, units_sold, best_selling, cpu, ram, cycle, bits, vram, aram, rom, sound_chip, gpu, media, resolution, display, miscellaneous" extra="true">
+			<color>262626</color>
 			<alignment>left</alignment>
 			<fontPath>./data/ubuntu_bold.ttf</fontPath>
 			<fontSize>0.02</fontSize>
-			<size>0.25 0.03</size>
+			<size>0.38 0.03</size>
 		</text>
 	</view>
 
@@ -53,60 +55,68 @@
 			<size>1 1</size>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
-			<path>./data/background.png</path>
+			<path>./data/background2.png</path>
 		</image>
+		<helpsystem name="help">
+			<textColor>262626</textColor>
+			<iconColor>262626</iconColor>
+		</helpsystem>
 		<image name="band1" extra="true">
 			<size>0.03 1</size>
 			<pos>0.80 0</pos>
 			<origin>0 0</origin>
+			<path>./data/band.png</path>
 		</image>
 		<image name="band2" extra="true">
 			<size>0.03 1</size>
-			<pos>0.83 0</pos>
+			<pos>0.829 0</pos>
 			<origin>0 0</origin>
+			<path>./data/band.png</path>
 		</image>
 		<image name="band3" extra="true">
 			<size>0.03 1</size>
-			<pos>0.86 0</pos>
+			<pos>0.858 0</pos>
 			<origin>0 0</origin>
+			<path>./data/band.png</path>
 		</image>
 		<image name="band4" extra="true">
 			<size>0.03 1</size>
-			<pos>0.89 0</pos>
+			<pos>0.887 0</pos>
 			<origin>0 0</origin>
+			<path>./data/band.png</path>
 		</image>
 		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite">
-			<color>4d4d4d</color>
+			<color>262626</color>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./data/ubuntu_condensed.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 			<size>0.12 0.04</size>
 		</text>
 		<text name="md_developer, md_publisher, md_genre, md_players, md_playcount, md_favorite, md_rating">
-			<color>4d4d4d</color>
+			<color>262626</color>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./data/ubuntu_condensed.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 			<size>0.12 0.04</size>
 		</text>
 		<text name="md_description">
-			<color>4d4d4d</color>
+			<color>262626</color>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./data/ubuntu_condensed.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 		</text>
 		<datetime name="md_releasedate, md_lastplayed">
-			<color>4d4d4d</color>
+			<color>262626</color>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./data/ubuntu_condensed.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 			<size>0 0.04</size>
 		</datetime>
 		<textlist name="gamelist">
-			<selectorColor>4d4d4d</selectorColor>
+			<selectorColor>262626</selectorColor>
 			<selectedColor>9f9f9f</selectedColor>
-			<primaryColor>4d4d4d</primaryColor>
-			<secondaryColor>2b2b2b</secondaryColor>
+			<primaryColor>262626</primaryColor>
+			<secondaryColor>4d4d4d</secondaryColor>
 			<fontPath>./data/ubuntu_condensed.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 			<forceUppercase>1</forceUppercase>
@@ -115,8 +125,8 @@
 
 	<view name="basic">
 		<image name="backtext1" extra="true">
-			<pos>0 0.19</pos>
-			<size>1 0.735</size>
+			<pos>0.02 0.19</pos>
+			<size>0.96 0.735</size>
 			<origin>0 0</origin>
 			<path>./data/back90.png</path>
 		</image>

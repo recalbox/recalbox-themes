@@ -1,0 +1,79 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<image name="background" extra="true">
+		</image>
+		<image name="band1" extra="true">
+			<color>5C67A9</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>280FBE</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>BCBCBC</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>212121</color>
+		</image>
+		<text name="manufacturer" extra="true">
+			<text>Manufacturer : Nintendo</text>
+			<pos>0.45 0.72</pos>
+		</text>
+		<text name="year_release" extra="true">
+			<text>Year of Release : 2001</text>
+			<pos>0.45 0.74</pos>
+		</text>
+		<text name="units_sold" extra="true">
+			<text>Units sold : 82 million</text>
+			<pos>0.45 0.76</pos>
+		</text>
+		<text name="best_selling" extra="true">
+			<text>Best-selling game : Pokémon Ruby</text>
+			<pos>0.45 0.78</pos>
+		</text>
+		<text name="cpu" extra="true">
+			<text>CPU : 16 MHz 32bit RISC-CPU + 8bit CISC-CPU</text>
+			<pos>0.45 0.82</pos>
+		</text>
+		<text name="ram" extra="true">
+			<text>RAM : 32KB WRAM + 256KB WRAM</text>
+			<pos>0.45 0.84</pos>
+		</text>
+		<text name="miscellaneous" extra="true">
+			<text>Screen : Reflective TFT Colour LCD</text>
+			<pos>0.45 0.86</pos>
+		</text>
+		<text name="resolution" extra="true">
+			<text>Resolution : 240 x 160 pixels</text>
+			<pos>0.45 0.88</pos>
+		</text>
+		<text name="vram" extra="true">
+			<text>Video RAM : 256KB</text>
+			<pos>0.45 0.90</pos>
+		</text>
+		<text name="aram" extra="true">
+			<text>Display Ability : 32 000 colours</text>
+			<pos>0.45 0.92</pos>
+		</text>
+		<text name="sound_chip" extra="true">
+			<text>Sound : Mono speakers, stereo headphones</text>
+			<pos>0.45 0.94</pos>
+		</text>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="band1" extra="true">
+			<color>5C67A9</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>280FBE</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>BCBCBC</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>212121</color>
+		</image>
+	</view>
+</theme>
