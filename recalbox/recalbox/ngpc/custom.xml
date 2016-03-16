@@ -1,0 +1,71 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<image name="background" extra="true">
+		</image>
+		<image name="band1" extra="true">
+			<color>E92A30</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>18A94E</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>1D9ED8</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>25374A</color>
+		</image>
+		<text name="manufacturer" extra="true">
+			<text>Manufacturer : SNK</text>
+			<pos>0.45 0.72</pos>
+		</text>
+		<text name="year_release" extra="true">
+			<text>Year of Release : 1999</text>
+			<pos>0.45 0.74</pos>
+		</text>
+		<text name="units_sold" extra="true">
+			<text>Units sold : 2 million, including no color version</text>
+			<pos>0.45 0.76</pos>
+		</text>
+		<text name="cpu" extra="true">
+			<text>CPUs : Toshiba TLCS900H @ 6.144 MHz, Z80 @ 3.072 MHz</text>
+			<pos>0.45 0.8</pos>
+		</text>
+		<text name="ram" extra="true">
+			<text>RAM : 12K for 900H, 4K for Z80</text>
+			<pos>0.45 0.82</pos>
+		</text>
+		<text name="ram" extra="true">
+			<text>RAM : 64 Kbytes</text>
+			<pos>0.45 0.84</pos>
+		</text>
+		<text name="bits" extra="true">
+			<text>Picture Processor Unit : 16-bit</text>
+			<pos>0.45 0.86</pos>
+		</text>
+		<text name="resolution" extra="true">
+			<text>Resolution : 160x152 146 colors (256×256 virtual screen)</text>
+			<pos>0.45 0.88</pos>
+		</text>
+		<text name="media" extra="true">
+			<text>Media : ROM cartridge 4 MB max</text>
+			<pos>0.45 0.9</pos>
+		</text>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="band1" extra="true">
+			<color>E92A30</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>18A94E</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>1D9ED8</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>25374A</color>
+		</image>
+	</view>
+</theme>

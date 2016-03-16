@@ -16,7 +16,7 @@
 		<image name="game" extra="true">
 			<path>./data/game.svg</path>
 			<pos>0.19 0.30</pos>
-			<maxSize>0.15 0.10</maxSize>
+			<maxSize>0.15 0.15</maxSize>
 			<origin>0 1</origin>
 		</image>
 		<image name="controller" extra="true">
