@@ -1,4 +1,4 @@
-Theme 'recalbox' UN RELEASED by Recalbox's Community
+Theme 'recalbox' UNRELEASED by Recalbox's Community
 For use with EmulationStation (http://www.emulationstation.org/)
 
 Missing Systems :
