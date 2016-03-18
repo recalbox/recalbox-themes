@@ -1,7 +1,7 @@
 <theme>
-    <formatVersion>4</formatVersion>
-    <include>./../main.xml</include>
-    <include>./custom.xml</include>
+	<formatVersion>4</formatVersion>
+	<include>./../main.xml</include>
+	<include>./custom.xml</include>
 
 	<view name="system">
 		<image name="logo">
@@ -15,7 +15,7 @@
 		</image>
 		<image name="game" extra="true">
 			<path>./data/game.svg</path>
-			<pos>0.30 0.30</pos>
+			<pos>0.29 0.30</pos>
 			<maxSize>0.15 0.15</maxSize>
 			<origin>0 1</origin>
 		</image>
@@ -57,23 +57,16 @@
 		</textlist>
 		<image name="backtext1" extra="true">
 			<color>9F9F9F</color>
-		</image> 
+		</image>
 	</view>
 
 	<view name="detailed">
 		<image name="backtext2" extra="true">
 			<color>9F9F9F</color>
-		</image> 
+		</image>
 		<image name="backtext3" extra="true">
 			<color>9F9F9F</color>
-		</image> 
-		<!-- <image name="testsize" extra="true">
-			<pos>0.46 0.21</pos>
-			<maxSize>0.245 0.3</maxSize>
-			<origin>0 0</origin>
-			<path>./../data/back70test.png</path>
-			<color>FF00FF</color>
-		</image> -->
+		</image>
 		<image name="md_image">
 			<pos>0.46 0.21</pos>
 			<maxSize>0.245 0.3</maxSize>
