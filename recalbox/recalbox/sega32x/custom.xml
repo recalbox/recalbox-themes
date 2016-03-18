@@ -16,37 +16,37 @@
 		<image name="band4" extra="true">
 			<color>58585A</color>
 		</image>
-		<text name="manufacturer" extra="true">
+		<text name="info1" extra="true">
 			<text>Manufacturer : Sega</text>
-			<pos>0.45 0.72</pos>
+			<pos>0.38 0.72</pos>
 		</text>
-		<text name="year_release" extra="true">
+		<text name="info2" extra="true">
 			<text>Year of Release : 1994</text>
-			<pos>0.45 0.74</pos>
+			<pos>0.38 0.74</pos>
 		</text>
-		<text name="units_sold" extra="true">
+		<text name="info3" extra="true">
 			<text>Units sold : 665 000</text>
-			<pos>0.45 0.76</pos>
+			<pos>0.38 0.76</pos>
 		</text>
-		<text name="cpu" extra="true">
+		<text name="info4" extra="true">
 			<text>CPU : Twin Hitachi SH2 32bit RISC @ 23 MHz</text>
-			<pos>0.45 0.80</pos>
+			<pos>0.38 0.80</pos>
 		</text>
-		<text name="miscellaneous" extra="true">
+		<text name="info5" extra="true">
 			<text>Co-Processor : 32X VDP</text>
-			<pos>0.45 0.82</pos>
+			<pos>0.38 0.82</pos>
 		</text>
-		<text name="display" extra="true">
+		<text name="info6" extra="true">
 			<text>Colour Palette : 32.768 simultaneous colours</text>
-			<pos>0.45 0.84</pos>
+			<pos>0.38 0.84</pos>
 		</text>
-		<text name="resolution" extra="true">
+		<text name="info7" extra="true">
 			<text>Resolution : 320 x 224 pixels</text>
-			<pos>0.45 0.86</pos>
+			<pos>0.38 0.86</pos>
 		</text>
-		<text name="sound_chip" extra="true">
+		<text name="info8" extra="true">
 			<text>Sound : Stereo PCM chip</text>
-			<pos>0.45 0.88</pos>
+			<pos>0.38 0.88</pos>
 		</text>
 	</view>
 

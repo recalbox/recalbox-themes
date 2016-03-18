@@ -40,12 +40,12 @@
 			<origin>0 0</origin>
 			<path>./data/band.png</path>
 		</image>
-		<text name="manufacturer, year_release, units_sold, best_selling, cpu, ram, cycle, bits, vram, aram, rom, sound_chip, gpu, media, resolution, display, miscellaneous" extra="true">
+		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10, info11, info12" extra="true">
 			<color>262626</color>
 			<alignment>left</alignment>
 			<fontPath>./data/ubuntu_bold.ttf</fontPath>
 			<fontSize>0.02</fontSize>
-			<size>0.38 0.03</size>
+			<size>0.4 0.03</size>
 		</text>
 	</view>
 

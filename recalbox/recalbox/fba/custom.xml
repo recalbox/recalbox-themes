@@ -16,7 +16,7 @@
 		<image name="band4" extra="true">
 			<color>FFFFFF</color>
 		</image>
-		<text name="miscellaneous" extra="true">
+		<text name="info1" extra="true">
 			<text>FB Alpha or FBA as it is commonly known is an emulator of arcade games, that is, it takes the program code, graphic data, ... from an orginal arcade game and emulate the hardware to make the game run in it's original form. As far as the game is concerned it is running in it's original cabinet.
 
 FBA is an open-source project and it is programmed by a group of people known as the FBA team. Over the years this has comprised Jan_Klaassen, KEV, LoopMaster, Mike Haggar, Hyper Yagami, Ayeye. FBA is based on the original FinalBurn by Dave.</text>
@@ -24,7 +24,6 @@ FBA is an open-source project and it is programmed by a group of people known as
 			<size>0.40 0.20</size>
 			<lineSpacing>1.1</lineSpacing>
 		</text>
-
 	</view>
 
 	<view name="basic, detailed">
