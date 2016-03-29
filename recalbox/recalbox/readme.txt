@@ -1,5 +1,13 @@
-Theme 'recalbox' UNRELEASED by Recalbox's Community
+Theme 'recalbox' released by Recalbox's Community
 For use with EmulationStation (http://www.emulationstation.org/)
+
+
+Changelog
+=========
+
+29/03/2016
+
+version 1.0.0-beta1
 
 Missing Systems :
 - amiga 600
@@ -22,12 +30,6 @@ Missing Systems :
 - wonderswan color
 - zx spectrum
 - zx 81
-
-
-Changelog
-=========
-
-xx/xx/xxxx
 
 
 Credits
