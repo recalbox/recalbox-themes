@@ -47,6 +47,9 @@
 			<fontSize>0.02</fontSize>
 			<size>0.4 0.03</size>
 		</text>
+		<text name="logoText">
+			<color>262626</color>
+		</text>
 	</view>
 
 	<view name="basic, detailed">
