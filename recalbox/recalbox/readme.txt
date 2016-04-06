@@ -5,31 +5,21 @@ For use with EmulationStation (http://www.emulationstation.org/)
 Changelog
 =========
 
-29/03/2016
+06/04/2016
 
 version 1.0.0-beta1
 
 Missing Systems :
 - amiga 600
 - amiga 1200
-- amstrad cpc
-- atari 2600
 - atari 7800
-- famicom disk system
 - lutro
-- lynx
-- master system
 - msx 1-2-2+
 - msx 1
 - msx 2
-- neogeo
-- odyssey 2
 - prboom
-- super nintendo
 - vectrex
 - wonderswan color
-- zx spectrum
-- zx 81
 
 
 Credits
@@ -41,6 +31,8 @@ Recalbox's community :
 - Shub
 - Lester
 - MarbleMad
+- Odissine
+- Zarroun
 - Reivaax
 - RockAddicted
 
