@@ -5,7 +5,7 @@ For use with EmulationStation (http://www.emulationstation.org/)
 Changelog
 =========
 
-06/04/2016
+09/04/2016
 
 version 1.0.0-beta1
 
@@ -19,7 +19,6 @@ Missing Systems :
 - msx 2
 - prboom
 - vectrex
-- wonderswan color
 
 
 Credits
