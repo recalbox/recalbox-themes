@@ -33,7 +33,7 @@
 			<pos>0.38 0.80</pos>
 		</text>
 		<text name="info5" extra="true">
-			<text>memory : 64 kB shared VRAM/WRAM</text>
+			<text>Memory : 64 kB shared VRAM/WRAM</text>
 			<pos>0.38 0.82</pos>
 		</text>
 		<text name="info6" extra="true">
