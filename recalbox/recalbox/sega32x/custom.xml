@@ -5,16 +5,16 @@
 		<image name="background" extra="true">
 		</image>
 		<image name="band1" extra="true">
-			<color>D5202C</color>
-		</image>
-		<image name="band2" extra="true">
 			<color>DCE3E6</color>
 		</image>
+		<image name="band2" extra="true">
+			<color>D5202C</color>
+		</image>
 		<image name="band3" extra="true">
-			<color>3A3A3C</color>
+			<color>C0C1C4</color>
 		</image>
 		<image name="band4" extra="true">
-			<color>58585A</color>
+			<color>212122</color>
 		</image>
 		<text name="info1" extra="true">
 			<text>Manufacturer : Sega</text>
@@ -52,16 +52,16 @@
 
 	<view name="basic, detailed">
 		<image name="band1" extra="true">
-			<color>D5202C</color>
-		</image>
-		<image name="band2" extra="true">
 			<color>DCE3E6</color>
 		</image>
+		<image name="band2" extra="true">
+			<color>D5202C</color>
+		</image>
 		<image name="band3" extra="true">
-			<color>3A3A3C</color>
+			<color>C0C1C4</color>
 		</image>
 		<image name="band4" extra="true">
-			<color>58585A</color>
+			<color>212122</color>
 		</image>
 	</view>
 </theme>
