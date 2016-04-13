@@ -1,0 +1,79 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<image name="background" extra="true">
+		</image>
+		<image name="band1" extra="true">
+			<color>FEE94B</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>7EEE80</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>FF7961</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>0098DF</color>
+		</image>
+		<text name="info1" extra="true">
+			<text>Manufacturer : Nintendo</text>
+			<pos>0.38 0.72</pos>
+		</text>
+		<text name="info2" extra="true">
+			<text>Year of Release : 1990</text>
+			<pos>0.38 0.74</pos>
+		</text>
+		<text name="info3" extra="true">
+			<text>Units sold : 49.10 million</text>
+			<pos>0.38 0.76</pos>
+		</text>
+		<text name="info4" extra="true">
+			<text>Best-selling game : Super Mario</text>
+			<pos>0.38 0.78</pos>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 16-bit Custom 64C816</text>
+			<pos>0.38 0.82</pos>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 1 Mbit (128 Kbyte)</text>
+			<pos>0.38 0.84</pos>
+		</text>
+		<text name="info7" extra="true">
+			<text>Memory Cycle Time : 279 ms</text>
+			<pos>0.38 0.86</pos>
+		</text>
+		<text name="info8" extra="true">
+			<text>Picture Processor Unit : 16-bit</text>
+			<pos>0.38 0.88</pos>
+		</text>
+		<text name="info9" extra="true">
+			<text>Video RAM : 0.5 Mbit (64 Kbyte)</text>
+			<pos>0.38 0.90</pos>
+		</text>
+		<text name="info10" extra="true">
+			<text>Audio RAM : 512 Kbit</text>
+			<pos>0.38 0.92</pos>
+		</text>
+		<text name="info11" extra="true">
+			<text>Sound chip :  8-bit Sony SPC700Samples</text>
+			<pos>0.38 0.94</pos>
+		</text>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="band1" extra="true">
+			<color>FEE94B</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>7EEE80</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>FF7961</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>0098DF</color>
+		</image>
+	</view>
+</theme>
