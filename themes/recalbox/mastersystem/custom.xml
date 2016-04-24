@@ -33,7 +33,7 @@
 			<pos>0.38 0.78</pos>
 		</text>
 		<text name="info5" extra="true">
-			<text>CPU : 8-Bit Zilog Z80 @ 4 MHz</text>
+			<text>CPU : 8-Bit Zilog Z80 @ 3.58 MHz</text>
 			<pos>0.38 0.82</pos>
 		</text>
 		<text name="info6" extra="true">
