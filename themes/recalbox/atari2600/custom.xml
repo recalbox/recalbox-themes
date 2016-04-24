@@ -45,7 +45,7 @@
 			<pos>0.38 0.86</pos>
 		</text>
 		<text name="info8" extra="true">
-			<text>Resolution : 160 x 192 pixels, 128 colors (max 4 per line)</text>
+			<text>Resolution : 160 x 192 pixels, 4 colors per line (128 colors palette)</text>
 			<pos>0.38 0.88</pos>
 		</text>
 		<text name="info9" extra="true">
@@ -53,7 +53,7 @@
 			<pos>0.38 0.90</pos>
 		</text>
 		<text name="info10" extra="true">
-			<text>Support : cartridges 4kB (32 kB with bank switching) </text>
+			<text>Cart Size : 2kB - 32kB </text>
 			<pos>0.38 0.92</pos>
 		</text>
 	</view>
