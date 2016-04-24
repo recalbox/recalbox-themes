@@ -45,7 +45,7 @@
 			<pos>0.38 0.86</pos>
 		</text>
 		<text name="info8" extra="true">
-			<text>Resolution : 256 x 240 pixels, 52 colours (16 displayed simultaneously)</text>
+			<text>Resolution : 256 x 240 pixels, 25 colors (64 colors palette)</text>
 			<pos>0.38 0.88</pos>
 		</text>
 		<text name="info9" extra="true">
@@ -53,7 +53,7 @@
 			<pos>0.38 0.90</pos>
 		</text>
 		<text name="info10" extra="true">
-			<text>Support : Cartridge, 768kB max</text>
+			<text>Cart Size : 8kB - 1MB/text>
 			<pos>0.38 0.92</pos>
 		</text>
 	</view>
