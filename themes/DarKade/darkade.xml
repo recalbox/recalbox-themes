@@ -1,0 +1,77 @@
+<!--
+theme name:		Darkade
+version:		2.0
+Description:	Based on Simple 1.4 theme by Nils Bonenberger (www.nilsbyte.de), retrobox by Benjamin Krause (www.idmedia.no) and recalbox 1.0.0-beta1 by the Recalbox Community
+author:			Nachtgarm (www.nachtgarm.de)
+website:		www.recalbox.com
+license:		creative commons CC-BY-NC-SA
+-->
+
+<theme>
+  <formatVersion>4</formatVersion>
+  <view name="system">
+    <image name="background" extra="true">
+      <size>0 1</size>
+      <pos>0.5 0.5</pos>
+      <origin>0.5 0.5</origin>
+    </image>
+  </view>
+  <view name="basic, detailed">
+    <text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite">
+      <color>FFFFFF</color>
+      <forceUppercase>0</forceUppercase>
+      <fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
+      <fontSize>0.020</fontSize>
+      <size>0.12 0.04</size>
+    </text>
+    <text name="md_rating, md_developer, md_publisher, md_genre, md_players, md_playcount, md_favorite">
+      <color>FFFFFF</color>
+      <forceUppercase>0</forceUppercase>
+      <fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
+      <fontSize>0.020</fontSize>
+      <size>0.12 0.04</size>
+    </text>
+    <text name="md_description">
+      <color>FFFFFF</color>
+      <forceUppercase>0</forceUppercase>
+      <fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
+      <fontSize>0.020</fontSize>
+    </text>
+    <datetime name="md_releasedate, md_lastplayed">
+      <color>FFFFFF</color>
+      <forceUppercase>0</forceUppercase>
+      <fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
+      <fontSize>0.020</fontSize>
+      <size>0 0.04</size>
+    </datetime>
+    <image name="header" extra="true">
+      <pos>0 0</pos>
+      <origin>0 0</origin>
+      <size>1 0.16</size>
+      <path>./art/dark.png</path>
+    </image>
+    <image name="footer" extra="true">
+      <pos>0 1</pos>
+      <origin>0 1</origin>
+      <size>1 0.065</size>
+      <path>./art/dark.png</path>
+    </image>
+    <image name="background">
+      <pos>0 0</pos>
+      <origin>0 0</origin>
+      <size>1 1</size>
+      <path>./art/mid.png</path>
+    </image>
+    <textlist name="gamelist">
+      <selectorColor>FFFFFF</selectorColor>
+      <selectedColor>000000</selectedColor>
+      <primaryColor>FFFFFF</primaryColor>
+      <secondaryColor>A3A3A3</secondaryColor>
+      <fontPath>./art/OPENSANS.TTF</fontPath>
+      <fontSize>0.020</fontSize>
+      <forceUppercase>0</forceUppercase>
+    </textlist>
+  </view>
+  <view name="basic"></view>
+  <view name="detailed"></view>
+</theme>
