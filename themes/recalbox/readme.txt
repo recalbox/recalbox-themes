@@ -2,6 +2,19 @@ Theme 'recalbox' released by Recalbox's Community
 For use with EmulationStation (http://www.emulationstation.org/)
 
 
+Screenshots
+===========
+
+Startup Screen
+![Startup](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox/screenshots/startup.png)
+
+Detail View with scraped info
+![Detail](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox/screenshots/detail.png)
+
+Detail View without scraped info
+![NonScraped](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox/screenshots/nonscraped.png)
+
+
 Changelog
 =========
 
