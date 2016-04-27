@@ -21,7 +21,7 @@
       <path>./art/fds_bg.jpg</path>
     </image>
     <text name="system_name_1" extra="true">
-      <text>Nintendo</text>
+      <text>Nintendo Family Computer</text>
       <forceUppercase>1</forceUppercase>
       <size>0.45 0.08</size>
       <pos>0.527 0.01</pos>
@@ -31,7 +31,7 @@
       <alignment>right</alignment>
     </text>
     <text name="system_name_2" extra="true">
-      <text>Family Computer Disk System</text>
+      <text>Disk System</text>
       <forceUppercase>1</forceUppercase>
       <size>0.45 0.08</size>
       <pos>0.527 0.07</pos>

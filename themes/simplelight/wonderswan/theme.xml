@@ -9,7 +9,7 @@
       <path>./art/wonderswan_art_blur.jpg</path>
     </image> -->
     <image name="logo">
-      <path>./art/wonderswan1.svg</path>
+      <path>./art/wswan.svg</path>
     </image>
     <helpsystem name="help">
       <textColor>00000077</textColor>
@@ -41,7 +41,7 @@
       <alignment>right</alignment>
     </text>
     <image name="logo">
-      <path>./art/wonderswan2.svg</path>
+      <path>./art/wswan.svg</path>
       <pos>0.025 0.079</pos>
       <maxSize>0.45 0.1</maxSize>
       <origin>0 0.5</origin>

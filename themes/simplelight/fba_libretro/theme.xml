@@ -23,17 +23,27 @@
     <text name="system_name_1" extra="true">
       <text>FinalBurn Alpha</text>
       <forceUppercase>1</forceUppercase>
-      <size>0.45 0.16</size>
-      <pos>0.527 0</pos>
+      <size>0.45 0.08</size>
+      <pos>0.527 0.01</pos>
       <color>000000</color>
       <fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
       <fontSize>0.055</fontSize>
       <alignment>right</alignment>
     </text>
+    <text name="system_name_2" extra="true">
+      <text>Libretro</text>
+      <forceUppercase>1</forceUppercase>
+      <size>0.45 0.08</size>
+      <pos>0.527 0.07</pos>
+      <color>7b7d7f</color>
+      <fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
+      <fontSize>0.055</fontSize>
+      <alignment>right</alignment>
+    </text>	
     <image name="logo">
       <path>./art/fba.svg</path>
-      <pos>0.025 0.079</pos>
-      <maxSize>0.45 0.1</maxSize>
+      <pos>0.025 0.0775</pos>
+      <maxSize>0.55 0.1</maxSize>
       <origin>0 0.5</origin>
     </image>
   </view>

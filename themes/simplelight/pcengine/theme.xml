@@ -21,7 +21,7 @@
       <path>./art/pce_art_blur.jpg</path>
     </image>
     <text name="system_name_1" extra="true">
-      <text>NEC/</text>
+      <text>NEC</text>
       <forceUppercase>1</forceUppercase>
       <size>0.45 0.08</size>
       <pos>0.527 0.01</pos>

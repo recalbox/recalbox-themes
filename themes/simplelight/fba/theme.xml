@@ -21,21 +21,11 @@
       <path>./art/fba_art_blur.jpg</path>
     </image>
     <text name="system_name_1" extra="true">
-      <text>FinalBurn</text>
+      <text>FinalBurn Alpha</text>
       <forceUppercase>1</forceUppercase>
       <size>0.45 0.16</size>
       <pos>0.527 0</pos>
       <color>000000</color>
-      <fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
-      <fontSize>0.055</fontSize>
-      <alignment>right</alignment>
-    </text>
-    <text name="system_name_2" extra="true">
-      <text>Alpha</text>
-      <forceUppercase>1</forceUppercase>
-      <size>0.45 0.08</size>
-      <pos>0.527 0.07</pos>
-      <color>7b7d7f</color>
       <fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
       <fontSize>0.055</fontSize>
       <alignment>right</alignment>
