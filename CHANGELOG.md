@@ -9,3 +9,4 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - Moved the themes to a specific directory
 - Added simplelight
 - Added DarKade
+- Added Eudora-BigShot
