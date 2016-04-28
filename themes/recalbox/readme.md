@@ -18,6 +18,7 @@ Detail View without scraped info
 Changelog
 =========
 
+
 09/04/2016
 
 version 1.0.0-beta1
@@ -25,13 +26,10 @@ version 1.0.0-beta1
 Missing Systems :
 - amiga 600
 - amiga 1200
-- atari 7800
 - lutro
 - msx 1-2-2+
 - msx 1
 - msx 2
-- prboom
-- vectrex
 
 
 Credits
