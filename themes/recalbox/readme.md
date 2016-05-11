@@ -45,6 +45,8 @@ Recalbox's community :
 - Zarroun
 - Reivaax
 - RockAddicted
+- Bigboo3000
+- Paradadf
 
 
 License

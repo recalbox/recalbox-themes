@@ -4,9 +4,9 @@
 	<include>./custom.xml</include>
 
 	<view name="system">
-		<!--<image name="logo">
+		<image name="logo">
 			<path>./data/logo.svg</path>
-		</image>-->
+		</image> 
 		<image name="console" extra="true">
 			<path>./data/console.svg</path>
 			<pos>0.02 0.30</pos>
