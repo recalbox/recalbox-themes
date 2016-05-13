@@ -33,8 +33,7 @@
 			<pos>0.38 0.78</pos>
 		</text>
 		<text name="info5" extra="true">
-			<text>CPU : 16-bit Motorola 68000 @ 7.6 MHz
-Zilog Z80 @ 3.58 MHz</text>
+			<text>CPU : 16-bit Motorola 68000 @ 7.6 MHz</text>
 			<pos>0.38 0.82</pos>
 		</text>
 		<text name="info6" extra="true">

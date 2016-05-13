@@ -49,7 +49,7 @@
 			<pos>0.38 0.88</pos>
 		</text>
 		<text name="info9" extra="true">
-			<text>2 channels of 1-bit monaural sound with 4-bit volume control</text>
+			<text>Sound : 2 channels of 1-bit monaural sound with 4-bit volume control</text>
 			<pos>0.38 0.90</pos>
 		</text>
 		<text name="info10" extra="true">
