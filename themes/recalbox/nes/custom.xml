@@ -33,27 +33,27 @@
 			<pos>0.38 0.78</pos>
 		</text>
 		<text name="info5" extra="true">
-			<text>CPU : Motorola 6502 8Bit @ 1.79MHz</text>
+			<text>CPU : 8-bit MOS 6502 @ 1.79MHz</text>
 			<pos>0.38 0.82</pos>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : 16KBit</text>
+			<text>RAM : 2kB / VRAM : 2kB</text>
 			<pos>0.38 0.84</pos>
 		</text>
 		<text name="info7" extra="true">
-			<text>Video RAM : 16KBit</text>
+			<text>Video : 8-Bit PPU (Picture Processing Unit)</text>
 			<pos>0.38 0.86</pos>
 		</text>
 		<text name="info8" extra="true">
-			<text>Resolution : 256 x 240 pixels </text>
+			<text>Resolution : 256 x 240 pixels, 25 colors (64 colors palette)</text>
 			<pos>0.38 0.88</pos>
 		</text>
 		<text name="info9" extra="true">
-			<text>Colors available : 52 colours</text>
+			<text>Sound : PSG sound (2 Square Waves, 1 Triangle Wave, 1 White Noise)</text>
 			<pos>0.38 0.90</pos>
 		</text>
 		<text name="info10" extra="true">
-			<text>Sound  : PSG sound</text>
+			<text>Cart Size : 8kB - 1MB/text>
 			<pos>0.38 0.92</pos>
 		</text>
 	</view>
