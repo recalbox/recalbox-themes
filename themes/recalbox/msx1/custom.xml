@@ -5,16 +5,16 @@
 		<image name="background" extra="true">
 		</image>
 		<image name="band1" extra="true">
-			<color>6792BB</color>
+			<color>9d9b91</color>
 		</image>
 		<image name="band2" extra="true">
-			<color>BABABA</color>
+			<color>262424</color>
 		</image>
 		<image name="band3" extra="true">
-			<color>34495E</color>
+			<color>424242</color>
 		</image>
 		<image name="band4" extra="true">
-			<color>FFFFFF</color>
+			<color>2761a2</color>
 		</image>
 		<text name="info1" extra="true">
 			<text>Work In Progress</text>
@@ -24,16 +24,16 @@
 
 	<view name="basic, detailed">
 		<image name="band1" extra="true">
-			<color>6792BB</color>
+			<color>9d9b91</color>
 		</image>
 		<image name="band2" extra="true">
-			<color>BABABA</color>
+			<color>262424</color>
 		</image>
 		<image name="band3" extra="true">
-			<color>34495E</color>
+			<color>424242</color>
 		</image>
 		<image name="band4" extra="true">
-			<color>FFFFFF</color>
+			<color>2761a2</color>
 		</image>
 	</view>
 </theme>
