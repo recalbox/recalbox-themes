@@ -29,25 +29,29 @@
 			<pos>0.38 0.76</pos>
 		</text>
 		<text name="info4" extra="true">
-			<text>CPU : Twin Hitachi SH2 32bit RISC @ 23 MHz</text>
+			<text>CPU : Two 32-bit Hitachi SH2 @ 23 MHz + Megadrive CPUs</text>
 			<pos>0.38 0.80</pos>
 		</text>
 		<text name="info5" extra="true">
-			<text>Co-Processor : 32X VDP</text>
+			<text>RAM : 256kB / VRAM : 256kB</text>
 			<pos>0.38 0.82</pos>
 		</text>
 		<text name="info6" extra="true">
-			<text>Colour Palette : 32.768 simultaneous colours</text>
+			<text>Video : 32X VDP</text>
 			<pos>0.38 0.84</pos>
 		</text>
 		<text name="info7" extra="true">
-			<text>Resolution : 320 x 224 pixels</text>
+			<text>Resolution : 320 x 224 pixels, 32768 colors</text>
 			<pos>0.38 0.86</pos>
 		</text>
 		<text name="info8" extra="true">
-			<text>Sound : Stereo PCM chip</text>
+			<text>Sound : Q-Sound 10bit Stereo PCM chip + Megadrive Sound chips</text>
 			<pos>0.38 0.88</pos>
 		</text>
+		<text name="info9" extra="true">
+			<text>Cart Size : 2MB - 4MB</text>
+			<pos>0.38 0.90</pos>
+		</text>		
 	</view>
 
 	<view name="basic, detailed">
