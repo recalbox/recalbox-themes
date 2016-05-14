@@ -1,7 +1,7 @@
 <theme>
-<formatVersion>4</formatVersion>
-<include>./../main.xml</include>
-<include>./custom.xml</include>
+	<formatVersion>4</formatVersion>
+	<include>./../main.xml</include>
+	<include>./custom.xml</include>
 
 	<view name="system">
 		<image name="logo">
@@ -10,19 +10,19 @@
 		<image name="console" extra="true">
 			<path>./data/console.svg</path>
 			<pos>0.02 0.30</pos>
-			<maxSize>0.13 0.25</maxSize>
+			<maxSize>0.35 0.25</maxSize>
 			<origin>0 1</origin>
 		</image>
 		<image name="game" extra="true">
 			<path>./data/game.svg</path>
-			<pos>0.171 0.30</pos>
-			<maxSize>0.15 0.15</maxSize>
+			<pos>0.39 0.30</pos>
+			<maxSize>0.15 0.10</maxSize>
 			<origin>0 1</origin>
 		</image>
 		<image name="controller" extra="true">
 			<path>./data/controller.svg</path>
 			<pos>0.78 0.30</pos>
-			<maxSize>0.15 0.25</maxSize>
+			<maxSize>0.2 0.2</maxSize>
 			<origin>1 1</origin>
 		</image>
 	</view>
@@ -31,12 +31,12 @@
 		<image name="console" extra="true">
 			<path>./data/console.svg</path>
 			<pos>0.02 0.17</pos>
-			<maxSize>0.08 0.15</maxSize>
+			<maxSize>0.22 0.15</maxSize>
 			<origin>0 1</origin>
 		</image>
 		<image name="game" extra="true">
 			<path>./data/game.svg</path>
-			<pos>0.12 0.17</pos>
+			<pos>0.26 0.17</pos>
 			<maxSize>0.07 0.07</maxSize>
 			<origin>0 1</origin>
 		</image>
