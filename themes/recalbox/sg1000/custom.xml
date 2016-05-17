@@ -33,32 +33,28 @@
 			<pos>0.38 0.78</pos>
 		</text>
 		<text name="info5" extra="true">
-			<text>CPU : NEC 780C clocked at 3.58 Mhz</text>
+			<text>CPU : 8-Bit Zilog Z80 @ 3.58 MHz</text>
 			<pos>0.38 0.82</pos>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : 1 KB</text>
+			<text>RAM : 1kB / VRAM : 2kB </text>
 			<pos>0.38 0.84</pos>
 		</text>
 		<text name="info7" extra="true">
-			<text>Video RAM : 2 KB</text>
+			<text>Video : Texas Instruments TMS9918</text>
 			<pos>0.38 0.86</pos>
 		</text>
 		<text name="info8" extra="true">
-			<text>Picture Processor Unit : 8-bit</text>
+			<text>Resolution : 256×192 pixels, 16 colors (21 colors palette)</text>
 			<pos>0.38 0.88</pos>
 		</text>
 		<text name="info9" extra="true">
-			<text>Sound chip : Texas Instruments SN76489</text>
+			<text>Sound chip : Texas Instruments SN76489 PSG</text>
 			<pos>0.38 0.90</pos>
 		</text>
 		<text name="info10" extra="true">
-			<text>Display : 256×192 resolution, 16 colours, 32 on-screen sprites</text>
+			<text>Cart Size : 8kB - 48kB</text>
 			<pos>0.38 0.92</pos>
-		</text>
-		<text name="info11" extra="true">
-			<text> Media : ROM cartridge, cassette tape, Sega Card</text>
-			<pos>0.38 0.94</pos>
 		</text>
 	</view>
 

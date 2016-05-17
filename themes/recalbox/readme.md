@@ -27,9 +27,6 @@ Missing Systems :
 - amiga 600
 - amiga 1200
 - lutro
-- msx 1-2-2+
-- msx 1
-- msx 2
 
 
 Credits
@@ -45,6 +42,8 @@ Recalbox's community :
 - Zarroun
 - Reivaax
 - RockAddicted
+- Bigboo3000
+- Paradadf
 
 
 License
