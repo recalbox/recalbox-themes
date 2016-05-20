@@ -8,9 +8,9 @@
     <!-- <image name="background" extra="true">
       <path>./art/ami1200_art_blur.jpg</path>
     </image> -->
-    <!-- <image name="logo">
-      <path>./art/amiga1200.svg</path>
-    </image> -->
+    <image name="logo">
+      <path>./art/a1200.svg</path>
+    </image>
     <helpsystem name="help">
       <textColor>00000077</textColor>
       <iconColor>00000077</iconColor>
@@ -40,12 +40,12 @@
       <fontSize>0.055</fontSize>
       <alignment>right</alignment>
     </text>
-    <!-- <image name="logo">
-      <path>./art/amiga1200.svg</path>
+    <image name="logo">
+      <path>./art/a1200.svg</path>
       <pos>0.025 0.079</pos>
       <maxSize>0.55 0.1</maxSize>
       <origin>0 0.5</origin>
-    </image> -->
+    </image>
   </view>
   <view name="basic">
     <textlist name="gamelist">
