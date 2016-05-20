@@ -8,21 +8,21 @@
     <image name="background" extra="true">
       <path>./../art/bg.jpg</path>
     </image>
-   <!-- <image name="logo">
+   <<image name="logo">
       <path>./art/a600.svg</path>
-    </image> -->
+    </image>
     <helpsystem name="help">
       <textColor>ffffff88</textColor>
       <iconColor>ffffff88</iconColor>
     </helpsystem>
   </view>
   <view name="basic, detailed">
-   <!-- <image name="logo">
+   <image name="logo">
       <path>./art/a600.svg</path>
       <pos>0.025 0.079</pos>
       <maxSize>0.55 0.1</maxSize>
       <origin>0 0.5</origin>
-    </image> -->
+    </image>
   </view>
   <view name="basic">
     <textlist name="gamelist">
