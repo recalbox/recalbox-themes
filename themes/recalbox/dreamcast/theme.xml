@@ -10,12 +10,12 @@
 		<image name="console" extra="true">
 			<path>./data/console.svg</path>
 			<pos>0.02 0.30</pos>
-			<maxSize>0.15 0.25</maxSize>
+			<maxSize>0.13 0.25</maxSize>
 			<origin>0 1</origin>
 		</image>
 		<image name="game" extra="true">
 			<path>./data/game.svg</path>
-			<pos>0.19 0.30</pos>
+			<pos>0.171 0.30</pos>
 			<maxSize>0.15 0.15</maxSize>
 			<origin>0 1</origin>
 		</image>
