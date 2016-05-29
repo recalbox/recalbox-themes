@@ -6,18 +6,18 @@
 	<view name="system">
 		<image name="logo">
 			<path>./data/logo.svg</path>
-		</image>
+		</image> 
 		<image name="console" extra="true">
 			<path>./data/console.svg</path>
-			<pos>0.02 0.32</pos>
-			<maxSize>0.25 0.30</maxSize>
+			<pos>0.02 0.30</pos>
+			<maxSize>0.45 0.25</maxSize>
 			<origin>0 1</origin>
 		</image>
-		<image name="game" extra="true">
-			<path>./data/game.svg</path>
-			<pos>0.28 0.32</pos>
-			<maxSize>0.25 0.25</maxSize>
-			<origin>0 1</origin>
+		<image name="controller" extra="true">
+			<path>./data/controller.svg</path>
+			<pos>0.78 0.32</pos>
+			<maxSize>0.15 0.27</maxSize>
+			<origin>1 1</origin>
 		</image>
 	</view>
 
@@ -25,17 +25,11 @@
 		<image name="console" extra="true">
 			<path>./data/console.svg</path>
 			<pos>0.02 0.17</pos>
-			<maxSize>0.125 0.15</maxSize>
-			<origin>0 1</origin>
-		</image>
-		<image name="game" extra="true">
-			<path>./data/game.svg</path>
-						<pos>0.150 0.17</pos>
-			<maxSize>0.083 0.12</maxSize>
+			<maxSize>0.27 0.15</maxSize>
 			<origin>0 1</origin>
 		</image>
 		<image name="logo">
-			<path>./data/console.svg</path>
+			<path>./data/logo.svg</path>
 			<pos>0.78 0.17</pos>
 			<maxSize>0.25 0.15</maxSize>
 			<origin>1 1</origin>
