@@ -18,6 +18,13 @@ Detail View without scraped info
 Changelog
 =========
 
+29/05/2016
+
+version 1.0.0
+
+Missing Systems :
+- amiga 600
+- amiga 1200
 
 09/04/2016
 

@@ -5,9 +5,9 @@
     <sound name="bgsound">
       <path>./sounds/Recalbox Main Theme 00 - by machette.ogg</path>
     </sound>
-    <!-- <image name="background" extra="true">
-      <path>./art/imagev.jpg</path>
-    </image> -->
+    <image name="background" extra="true">
+      <path>./art/imageviewer_art_blur.jpg</path>
+    </image>
     <image name="logo">
       <path>./art/imagev.svg</path>
     </image>
@@ -17,9 +17,9 @@
     </helpsystem>
   </view>
   <view name="basic, detailed">
-    <!-- <image name="background">
-      <path>./art/imagev.jpg</path>
-    </image> -->
+    <image name="background">
+      <path>./art/imageviewer_art_blur.jpg</path>
+    </image>
     <text name="system_name_1" extra="true">
       <text>Imageviewer</text>
       <forceUppercase>1</forceUppercase>
