@@ -17,7 +17,7 @@
     </helpsystem>
   </view>
   <view name="basic, detailed">
-    <<image name="background">
+    <image name="background">
       <path>./art/msx1_art_blur.jpg</path>
     </image>
     <text name="system_name_1" extra="true">
