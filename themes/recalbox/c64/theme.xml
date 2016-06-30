@@ -15,7 +15,7 @@
 		</image>
 		<image name="game" extra="true">
 			<path>./data/game.svg</path>
-			<pos>0.39 0.30</pos>
+			<pos>0.38 0.30</pos>
 			<maxSize>0.15 0.10</maxSize>
 			<origin>0 1</origin>
 		</image>
