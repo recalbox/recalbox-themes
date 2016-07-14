@@ -25,7 +25,7 @@
 			<pos>0.38 0.74</pos>
 		</text>
 		<text name="info3" extra="true">
-			<text>Scummvm is a collection of game engine recreations. Originally designed to play LucasArts adventure games that use the SCUMMM system, il also supports a variety of non-SCUMM games by companies like Revolution Software and Adventure Soft. It was originally written by Ludvig Strigeus. Released under the terms of the GNU General Public License, ScummVM is a free software.</text>
+			<text>Scummvm is a collection of game engine recreations. Originally designed to play LucasArts adventure games that use the SCUMMM system, it also supports a variety of non-SCUMM games by companies like Revolution Software and Adventure Soft. It was originally written by Ludvig Strigeus. Released under the terms of the GNU General Public License, ScummVM is a free software.</text>
 			<pos>0.38 0.76</pos>
 			<size>0.40 0.20</size>
 			<lineSpacing>1.1</lineSpacing>
