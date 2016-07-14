@@ -8,7 +8,7 @@
 			<path>./data/logo.svg</path>
 		</image> 
 		<image name="console" extra="true">
-			<path>./data/console.svg</path>
+			<path>./data/console2.svg</path>
 			<pos>0.02 0.30</pos>
 			<maxSize>0.25 0.25</maxSize>
 			<origin>0 1</origin>
@@ -23,7 +23,7 @@
 
 	<view name="basic, detailed">
 		<image name="console" extra="true">
-			<path>./data/console.svg</path>
+			<path>./data/console2.svg</path>
 			<pos>0.02 0.17</pos>
 			<maxSize>0.15 0.15</maxSize>
 			<origin>0 1</origin>
