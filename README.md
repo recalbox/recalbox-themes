@@ -60,6 +60,7 @@ Find below the systems list to support to obtain a theme compatible with recalbo
 | Amiga 1200 | amiga1200 | 4.1.0 |
 | Amiga 600 | amiga600 | 4.1.0 |
 | Apple II | apple2 | 4.1.0 |
+| Colecovision | colecovision | 4.1.0 |
 | Commodor 64 | c64 | 4.1.0 |
 | Dreamcast | dreamcast | 4.1.0 |
 | Playstation portable | psp | 4.1.0 |
