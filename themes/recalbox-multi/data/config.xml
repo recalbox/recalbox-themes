@@ -1,0 +1,23 @@
+<theme>
+    <formatVersion>4</formatVersion>
+	
+	
+	<!--   Layout config, uncomment the one to be used and comment ALL others -->
+	
+	<!--<include>./layouts/standard-landscape.xml</include>-->
+	<!--<include>./layouts/standard-portrait.xml</include>-->
+	<include>./layouts/standard-big_picture.xml</include>
+	<!--<include>./layouts/standard-nodesc.xml</include>-->
+	<!--<include>./layouts/Supernature2k.xml</include>-->
+	
+	
+	
+	<!--   Color config, uncomment the one to be used and comment ALL others -->
+	
+	<!--<include>./colorsets/standard.xml</include>-->
+	<include>./colorsets/darker.xml</include>
+
+
+
+	
+</theme>
