@@ -12,7 +12,7 @@
 	
 	
 	<!-- uncomment this line to use specific rating icons -->
-	<!--<include>./rating_icons.xml</include>-->
+	<include>./rating_icons.xml</include>
 	
 
 	<view name="system">

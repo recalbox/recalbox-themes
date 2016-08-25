@@ -18,6 +18,13 @@ Detail View without scraped info
 Changelog
 =========
 
+25/08/2016
+
+V1.0.11
+
+-changed per system icons as default
+-added several icons made by Paradadf
+
 23/08/2016
 
 V1.0.0
@@ -26,6 +33,7 @@ V1.0.0
 Credits
 =======
 -Supernature2k
+-Paradadf
 
 Original work from
 Recalbox's community :
