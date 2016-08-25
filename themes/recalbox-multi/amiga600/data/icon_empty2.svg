@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg7148"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="icon_empty.svg"
+   x="0px"
+   y="0px"
+   width="30"
+   height="30"
+   viewBox="0 0 30 30"
+   enable-background="new 0 0 488.906 112.262"
+   xml:space="preserve"><metadata
+     id="metadata62"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs60" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview58"
+     showgrid="false"
+     inkscape:zoom="11.650501"
+     inkscape:cx="41.112821"
+     inkscape:cy="11.359454"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7148" /><g
+     id="Logo"
+     transform="matrix(0.25850767,0,0,0.25850767,-1.4005859,0.23916562)"><path
+       id="path3002"
+       d="M 58.375,4.594 C 29.321,4.594 5.75,28.165 5.75,57.219 c 0,29.055 23.571,52.594 52.625,52.594 5.587,0 10.98,-0.888 16.031,-2.5 l 0,-26.25 c -4.362,2.537 -9.467,4 -14.938,4 -15.988,0 -28.938,-12.465 -28.938,-27.844 0,-15.379 12.95,-27.844 28.938,-27.844 5.471,0 10.575,1.464 14.938,4 l 0,-26.281 C 69.355,5.479 63.962,4.594 58.375,4.594 Z"
+       inkscape:connector-curvature="0"
+       style="fill:#666666" /><polygon
+       id="polygon9367"
+       points="96.535,55.461 74.871,55.461 74.871,37.205 74.871,37.205 114.064,37.205 "
+       style="fill:#666666" /><polygon
+       id="polygon9369"
+       points="96.535,59.161 74.871,59.161 74.871,77.417 74.871,77.417 114.064,77.417 "
+       style="fill:#666666" /></g></svg>
