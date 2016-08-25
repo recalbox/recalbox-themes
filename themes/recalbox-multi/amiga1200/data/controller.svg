@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg5947"
+   viewBox="0 0 109 277"
+   height="277"
+   width="109">
+  <defs
+     id="defs5949">
+    <clipPath
+       id="clipPath950"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path952"
+         d="M 0,542 612,542 612,0 0,0 0,542 Z" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata5952">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-775.36216)"
+     id="layer1">
+    <g
+       id="g946"
+       transform="matrix(1.25,0,0,-1.25,-19.606375,1059.4456)">
+      <g
+         clip-path="url(#clipPath950)"
+         id="g948">
+        <g
+           transform="translate(59.4851,144.0417)"
+           id="g954">
+          <path
+             id="path956"
+             style="fill:none;stroke:#676764;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="M 0,0 0,50 C 0,66.4 -6.917,79.6 -33.2,79.6" />
+        </g>
+        <g
+           transform="translate(69.0641,149.6667)"
+           id="g958">
+          <path
+             id="path960"
+             style="fill:#8a8a85;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             d="m 0,0 -8.579,0 0,1.6 7.947,0 -0.789,2 -7.158,0 0,1.6 6.526,0 -0.947,2.4 -5.579,0 0,1.6 4.947,0 -0.947,2.4 -10,0 -0.884,-2.4 5.284,0 0,-1.6 -5.874,0 -0.884,-2.4 6.758,0 0,-1.6 -7.347,0 -0.737,-2 8.084,0 0,-1.6 -8.674,0 -1.326,-3.6 21.6,0 L 0,0 Z" />
+        </g>
+        <g
+           transform="translate(22.8851,147.2667)"
+           id="g962">
+          <path
+             id="path964"
+             style="fill:#cbcacb;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             d="M 0,0 72.8,0 C 76.776,0 80,-3.224 80,-7.2 l 0,-127.2 c 0,-3.976 -3.224,-7.2 -7.2,-7.2 l -72.8,0 c -3.976,0 -7.2,3.224 -7.2,7.2 l 0,127.2 C -7.2,-3.224 -3.976,0 0,0" />
+        </g>
+        <g
+           transform="translate(34.4851,121.2667)"
+           id="g966">
+          <path
+             id="path968"
+             style="fill:#dddcdc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             d="m 0,0 50.4,0 c 1.326,0 2.4,-1.074 2.4,-2.4 l 0,-70.4 c 0,-1.325 -1.074,-2.4 -2.4,-2.4 l -50.4,0 c -1.326,0 -2.4,1.075 -2.4,2.4 l 0,70.4 C -2.4,-1.074 -1.326,0 0,0" />
+        </g>
+        <g
+           transform="translate(34.4851,135.1)"
+           id="g970">
+          <path
+             id="path972"
+             style="fill:#676764;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             d="m 0,0 16,0 c 1.326,0 2.4,-1.074 2.4,-2.4 l 0,-32 c 0,-1.325 -1.074,-2.4 -2.4,-2.4 l -16,0 c -1.326,0 -2.4,1.075 -2.4,2.4 l 0,32 C -2.4,-1.074 -1.326,0 0,0" />
+        </g>
+        <g
+           transform="translate(34.4851,137.2667)"
+           id="g974">
+          <path
+             id="path976"
+             style="fill:#8a8a85;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             d="m 0,0 16,0 c 1.326,0 2.4,-1.074 2.4,-2.4 l 0,-32 c 0,-1.325 -1.074,-2.4 -2.4,-2.4 l -16,0 c -1.326,0 -2.4,1.075 -2.4,2.4 l 0,32 C -2.4,-1.074 -1.326,0 0,0" />
+        </g>
+        <g
+           transform="translate(68.8851,135.1)"
+           id="g978">
+          <path
+             id="path980"
+             style="fill:#676764;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             d="m 0,0 16,0 c 1.326,0 2.4,-1.074 2.4,-2.4 l 0,-32 c 0,-1.325 -1.074,-2.4 -2.4,-2.4 l -16,0 c -1.326,0 -2.4,1.075 -2.4,2.4 l 0,32 C -2.4,-1.074 -1.326,0 0,0" />
+        </g>
+        <g
+           transform="translate(68.8851,137.2667)"
+           id="g982">
+          <path
+             id="path984"
+             style="fill:#8a8a85;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             d="m 0,0 16,0 c 1.326,0 2.4,-1.074 2.4,-2.4 l 0,-32 c 0,-1.325 -1.074,-2.4 -2.4,-2.4 l -16,0 c -1.326,0 -2.4,1.075 -2.4,2.4 l 0,32 C -2.4,-1.074 -1.326,0 0,0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

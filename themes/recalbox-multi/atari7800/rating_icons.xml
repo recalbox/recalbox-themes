@@ -1,0 +1,12 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+
+	<view name="detailed">
+		<rating name="md_rating">
+			<filledPath>./data/icon_filled.svg</filledPath>
+			<unfilledPath>./data/icon_empty.svg</unfilledPath>
+		</rating>
+	</view>
+	
+</theme>
