@@ -63,5 +63,7 @@ Find below the systems list to support to obtain a theme compatible with recalbo
 | Colecovision | colecovision | 4.1.0 |
 | Commodor 64 | c64 | 4.1.0 |
 | Dreamcast | dreamcast | 4.1.0 |
+| Gamecube | gc | 4.1.0 |
 | Playstation portable | psp | 4.1.0 |
+| Wii | wii | 4.1.0 |
 
