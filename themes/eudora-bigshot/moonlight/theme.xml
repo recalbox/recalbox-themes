@@ -1,15 +1,16 @@
 <theme>
-    <formatVersion>3</formatVersion>
+    <formatVersion>4</formatVersion>
     <include>./../common.xml</include>
 	<include>./../common/templates/bigshot.xml</include>	
 
 	<view name="system">
 	<!-- System Specific Images -->
 		<image name="logo">
-			<path>./logo.svg</path>
+			<path>./mainlogo.svg</path>
         </image>
 		
 		<image name="overlay" extra="true">
+			<path>./controller.svg</path>
 		</image>
 	</view>
 
@@ -20,6 +21,7 @@
 		</image>
 		
 		<image name="overlay" extra="true">
+			<path>./controller.svg</path>
 		</image>
 	</view>
 </theme>
