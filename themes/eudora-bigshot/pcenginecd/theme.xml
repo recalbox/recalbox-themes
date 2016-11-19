@@ -1,5 +1,5 @@
 <theme>
-    <formatVersion>3</formatVersion>
+    <formatVersion>4</formatVersion>
     <include>./../common.xml</include>
 	<include>./../common/templates/bigshot.xml</include>	
 
@@ -17,7 +17,7 @@
 	<view name="basic, detailed">
 	<!-- System Specific Images -->
 		<image name="logo">
-			<path>./logo2.svg</path>
+			<path>./invlogo.svg</path>
 		</image>
 		
 		<image name="overlay" extra="true">

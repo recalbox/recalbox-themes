@@ -1,5 +1,5 @@
 <theme>
-    <formatVersion>3</formatVersion>
+    <formatVersion>4</formatVersion>
     <include>./../common.xml</include>
 	<include>./../common/templates/bigshot.xml</include>	
 
