@@ -7,7 +7,7 @@
 			<size>1 1</size>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
-			<path>./../arts/background2.png</path>
+			<path>./../arts/back.png</path>
 		</image>
 		<image name="band1" extra="true">
 			<size>0.03 1</size>
