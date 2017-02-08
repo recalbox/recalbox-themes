@@ -1,17 +1,18 @@
-﻿Theme 'simplelight' for EmulationStation (http://www.emulationstation.org/) and Recalbox (http://www.recalbox.com/)
+﻿Theme "Blisslight" for EmulationStation (http://www.emulationstation.org/) and Recalbox (http://www.recalbox.com/)
+
+Based on the theme "simplelight"  by:
 (c) Nils Bonenberger - nilsbyte@nilsbyte.de - http://www.nilsbyte.de/
 (c) Recalbox - http://www.recalbox.com/
+
 
 Changelog
 =========
 
-
 - 26-1-2017 (By RetroWilly)
-  -BackgroundImages overhaull
+  -BackgroundImages overhaul
   -System Icon changes
-  -System sounds changed
-  -Added 3 systems
-  -Blisslight, a variation on Simplelight
+  -Changed different system music
+  -Artwork fix	
  
 - 13-09-2015 (by recalbox community)
   - Added Cave Story theme

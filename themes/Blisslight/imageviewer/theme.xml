@@ -1,6 +1,6 @@
 <theme>
   <formatVersion>4</formatVersion>
-  <include>./../simple.xml</include>
+  <include>./../Bliss.xml</include>
   <view name="system">
     <sound name="bgsound">
       <path>./sounds/Recalbox Main Theme 00 - by machette.ogg</path>
