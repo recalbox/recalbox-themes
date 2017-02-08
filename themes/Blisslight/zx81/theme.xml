@@ -6,10 +6,10 @@
       <path>./sounds/system.ogg</path>
     </sound>
     <image name="background" extra="true">
-      <path>./art/vb_art_blur.jpg</path>
+      <path>./art/zx81_art_blur.jpg</path>
     </image>
     <image name="logo">
-      <path>./art/vb.svg</path>
+      <path>./art/zx81.svg</path>
     </image>
     <helpsystem name="help">
       <textColor>00000077</textColor>
@@ -18,10 +18,10 @@
   </view>
   <view name="basic, detailed">
     <image name="background">
-      <path>./art/vb_art_blur.jpg</path>
+      <path>./art/zx81_art_blur.jpg</path>
     </image>
     <text name="system_name_1" extra="true">
-      <text>Nintendo</text>
+      <text>Sinclair</text>
       <forceUppercase>1</forceUppercase>
       <size>0.45 0.08</size>
       <pos>0.527 0.01</pos>
@@ -31,7 +31,7 @@
       <alignment>right</alignment>
     </text>
     <text name="system_name_2" extra="true">
-      <text>Virtual Boy</text>
+      <text>ZX 81</text>
       <forceUppercase>1</forceUppercase>
       <size>0.45 0.08</size>
       <pos>0.527 0.07</pos>
@@ -41,8 +41,8 @@
       <alignment>right</alignment>
     </text>
     <image name="logo">
-      <path>./art/vb.svg</path>
-      <pos>0.025 0.0775</pos>
+      <path>./art/zx81.svg</path>
+      <pos>0.025 0.079</pos>
       <maxSize>0.55 0.1</maxSize>
       <origin>0 0.5</origin>
     </image>
