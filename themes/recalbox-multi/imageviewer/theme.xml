@@ -38,9 +38,6 @@
 			<maxSize>0.25 0.15</maxSize>
 			<origin>1 1</origin>
 		</image>
-		<image name="controls" extra="true">
-			<path>./../data/arts/splash.svg</path>
-		</image>
 	</view>
 	<view name="detailed">
 		<text name="control" extra="true">
@@ -48,5 +45,8 @@
 			<pos>1 1</pos>
 			<size>0.16 0.02</size>
 		</text>
-	</view>
+		<image name="controls" extra="true">
+			<path>./../data/arts/splash.svg</path>
+		</image>
+	</view>	
 </theme>
