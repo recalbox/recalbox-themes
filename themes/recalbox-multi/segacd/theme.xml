@@ -15,7 +15,7 @@
 
 	<view name="system">
 		<image name="logo">
-			<path>./data/logo.svg</path>
+			<path>./data/logo3.svg</path>
 		</image> 
 		<image name="console" extra="true">
 			<path>./data/console.svg</path>
@@ -51,10 +51,13 @@
 			<origin>0 1</origin>
 		</image>
 		<image name="logo">
-			<path>./data/logo.svg</path>
+			<path>./data/logo3.svg</path>
 			<pos>0.78 0.17</pos>
 			<maxSize>0.25 0.15</maxSize>
 			<origin>1 1</origin>
+		</image>
+		<image name="controls" extra="true">
+			<path>./data/controls.svg</path>
 		</image>
 	</view>
 </theme>

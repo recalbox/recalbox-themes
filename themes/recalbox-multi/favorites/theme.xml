@@ -39,4 +39,11 @@
 			<origin>1 1</origin>
 		</image>
 	</view>
+	<view name="detailed">
+		<text name="control" extra="true">
+			<text></text>
+			<pos>1 1</pos>
+			<size>0.16 0.02</size>
+		</text>
+	</view>
 </theme>

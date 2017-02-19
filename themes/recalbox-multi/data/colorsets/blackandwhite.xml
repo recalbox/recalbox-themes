@@ -1,0 +1,73 @@
+<theme>
+    <formatVersion>4</formatVersion>
+	
+	<view name="system">
+		<image name="background" extra="true">
+			<color>FFFFFF</color>
+		</image>
+		<helpsystem name="help">
+			<textColor>000000</textColor>
+			<iconColor>000000</iconColor>
+		</helpsystem>
+		<text name="logoText">
+			<color>000000</color>
+		</text>
+		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10, info11, info12" extra="true">
+			<color>000000</color>
+		</text>
+	</view>
+	
+	<view name="basic, detailed">
+		<image name="background" extra="true">
+			<color>FFFFFF</color>
+		</image>
+		<helpsystem name="help">
+			<textColor>000000</textColor>
+			<iconColor>000000</iconColor>
+		</helpsystem>
+		<textlist name="gamelist">
+			<selectorColor>000000</selectorColor>
+			<selectedColor>EEEEEE</selectedColor>
+			<primaryColor>000000</primaryColor>
+			<secondaryColor>4d4d4d</secondaryColor>
+		</textlist>
+	</view>
+	
+	<view name="basic">
+		<image name="backtext1" extra="true">
+			<color>EEEEEE</color>
+		</image>
+	</view>
+	
+	<view name="detailed">
+		<image name="backtext2" extra="true">
+			<color>EEEEEE</color>
+		</image>
+		<image name="backtext3" extra="true">
+			<color>EEEEEE</color>
+		</image>
+		<image name="backtext4" extra="true">
+			<color>EEEEEE</color>
+		</image>
+		<image name="backtext5" extra="true">
+			<color>EEEEEE</color>
+		</image>
+	
+		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite, md_developer, md_publisher, md_genre, md_players, md_playcount, md_favorite, md_description">
+			<color>000000</color>
+		</text>
+		<datetime name="md_releasedate, md_lastplayed">
+			<color>000000</color>
+		</datetime>
+		<text name="control" extra="true">
+			<color>000000</color>
+		</text>
+		<text name="no_image" extra="true">
+			<color>000000</color>
+		</text>
+		<image name="controls" extra="true">
+			<color>000000</color>
+		</image>
+	</view>
+	
+</theme>

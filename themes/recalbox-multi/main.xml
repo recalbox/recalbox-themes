@@ -51,17 +51,27 @@
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./data/arts/Exo2-BoldCondensed.otf</fontPath>
 			<fontSize>0.02</fontSize>
-			<size>0.12 0.02</size>
+			<size>0.144 0.02</size>
 		</text>
+		
 		
 		<text name="md_developer, md_publisher, md_genre, md_players, md_playcount, md_favorite">
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./data/arts/Exo2-RegularCondensed.otf</fontPath>
 			<fontSize>0.02</fontSize>
-			<size>0.12 0.02</size>
+			<size>0.144 0.02</size>
 		</text>
 		
-		
+		<text name="control" extra="true">
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./data/arts/Exo2-BoldCondensed.otf</fontPath>
+			<fontSize>0.02</fontSize>
+		</text>
+		<text name="no_image" extra="true">
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./data/arts/Exo2-BoldCondensed.otf</fontPath>
+			<fontSize>0.02</fontSize>
+		</text>
 		
 		<text name="md_description">
 			<forceUppercase>1</forceUppercase>

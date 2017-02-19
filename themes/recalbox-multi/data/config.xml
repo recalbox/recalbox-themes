@@ -9,6 +9,7 @@
 	<!--<include>./layouts/standard-big_picture.xml</include>-->
 	<!--<include>./layouts/standard-nodesc.xml</include>-->
 	<!--<include>./layouts/Supernature2k.xml</include>-->
+	<!--<include>./layouts/controls.xml</include>-->
 	
 	
 	
@@ -16,8 +17,8 @@
 	
 	<include>./colorsets/standard.xml</include>
 	<!--<include>./colorsets/darker.xml</include>-->
-
-
-
+	<!--<include>./colorsets/bluechoco.xml</include>-->
+	<!--<include>./colorsets/blackandwhite.xml</include>-->
+	<!--<include>./colorsets/whiteandblack.xml</include>-->
 	
 </theme>

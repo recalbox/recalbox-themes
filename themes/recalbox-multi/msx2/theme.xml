@@ -56,5 +56,9 @@
 			<maxSize>0.25 0.15</maxSize>
 			<origin>1 1</origin>
 		</image>
+		<image name="controls" extra="true">
+			<path>./data/controls.svg</path>
+		</image>
 	</view>
+	
 </theme>
