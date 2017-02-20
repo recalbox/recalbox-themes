@@ -141,6 +141,9 @@
 			<alignment>left</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 		</textlist>
+		<image name="controls" extra="true">
+			<pos>1 1</pos>
+		</image>
 	</view>
 	
 	<view name="basic">

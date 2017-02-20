@@ -57,4 +57,10 @@
 			<origin>1 1</origin>
 		</image>
 	</view>
+	<view name="detailed">
+		<image name="controls" extra="true">
+			<path>./data/controls.svg</path>
+		</image>
+	</view>	
+	
 </theme>

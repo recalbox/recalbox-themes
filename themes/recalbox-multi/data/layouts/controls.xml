@@ -1,0 +1,173 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<view name="basic, detailed">
+		<image name="background" extra="true">
+			<tile>true</tile>
+			<size>1 1</size>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<path>./../arts/back.png</path>
+		</image>
+		<image name="band1" extra="true">
+			<size>0.03 1</size>
+			<pos>0.80 0</pos>
+			<origin>0 0</origin>
+			<path>./../arts/band.png</path>
+		</image>
+		<image name="band2" extra="true">
+			<size>0.03 1</size>
+			<pos>0.829 0</pos>
+			<origin>0 0</origin>
+			<path>./../arts/band.png</path>
+		</image>
+		<image name="band3" extra="true">
+			<size>0.03 1</size>
+			<pos>0.858 0</pos>
+			<origin>0 0</origin>
+			<path>./../arts/band.png</path>
+		</image>
+		<image name="band4" extra="true">
+			<size>0.03 1</size>
+			<pos>0.887 0</pos>
+			<origin>0 0</origin>
+			<path>./../arts/band.png</path>
+		</image>
+	</view>
+	
+	<view name="detailed">
+		<image name="backtext2" extra="true">
+			<pos>0.02 0.19</pos>
+			<size>0.35 0.735</size>
+			<origin>0 0</origin>
+			<path>./../arts/back90.png</path>
+		</image>
+		<image name="backtext3" extra="true">
+			<pos>0.55 0.19</pos>
+			<size>0.43 0.735</size>
+			<origin>0 0</origin>
+			<path>./../arts/back90.png</path>
+		</image>
+		<image name="backtext4" extra="true">
+			<pos>0.375 0.19</pos>
+			<size>0.17 0.735</size>
+			<origin>0 0</origin>
+			<path>./../arts/back90.png</path>
+		</image>
+		
+		<image name="md_image">
+			<origin>0.5 0.5</origin>
+			<pos>0.76 0.43</pos>
+			<maxSize>0.372 0.438</maxSize>
+		</image>
+
+		<text name="md_players, md_genre, md_developer, md_publisher">
+			<size>0.146 0.023</size>
+		</text>
+		
+		<text name="md_lbl_rating">
+			<pos>0.38 0.1955</pos>
+		</text>
+		
+		<rating name="md_rating">
+			<pos>0.395 0.2155</pos>
+			<filledPath>./../arts/rating_filled.svg</filledPath>
+			<unfilledPath>./../arts/rating_empty.svg</unfilledPath>
+			<size>0.04 0.02</size>
+		</rating>
+		
+		<text name="md_lbl_releasedate">
+			<pos>0.38 0.2455</pos>
+		</text>		
+		<datetime name="md_releasedate">
+			<pos>0.395 0.2655</pos>			
+		</datetime>		
+		
+		<text name="md_lbl_developer">
+			<pos>0.38 0.2955</pos>
+		</text>		
+		<text name="md_developer">
+			<pos>0.395 0.3155</pos>
+		</text>
+		
+		<text name="md_lbl_publisher">
+			<pos>0.38 0.3455</pos>
+		</text>		
+		<text name="md_publisher">
+			<pos>0.395 0.3655</pos>
+		</text>		
+		
+		<text name="md_lbl_genre">
+			<pos>0.38 0.3955</pos>
+		</text>		
+		<text name="md_genre">
+			<pos>0.395 0.4155</pos>
+		</text>		
+		
+		<text name="md_lbl_players">
+			<pos>0.38 0.4455</pos>
+		</text>		
+		<text name="md_players">
+			<pos>0.395 0.4655</pos>
+		</text>		
+
+		<text name="md_lbl_lastplayed">
+			<pos>0.38 0.4955</pos>
+		</text>
+		<datetime name="md_lastplayed">
+			<pos>0.395 0.5155</pos>
+		</datetime>
+		
+		<text name="md_lbl_playcount">
+			<pos>0.38 0.5455</pos>
+		</text>
+		<text name="md_playcount">
+			<pos>0.395 0.5655</pos>
+		</text>
+
+		<text name="md_lbl_favorite">
+			<pos>0.38 0.5955</pos>
+		</text>
+		<text name="md_favorite">
+			<pos>0.395 0.6155</pos>
+		</text>
+		<text name="control" extra="true">
+			<text>Controller layout:</text>
+			<pos>0.38 0.6455</pos>
+			<size>0.16 0.02</size>
+		</text>
+		<image name="controls" extra="true">
+			<pos>0.383 0.69</pos>
+			<maxSize>0.15 0.20</maxSize>
+			<origin>0 0</origin>
+		</image>
+
+		<text name="md_description">
+			<lineSpacing>1.2</lineSpacing>
+			<pos>0.555 0.68</pos>
+			<size>0.42 0.235</size>	
+		</text>
+
+		<textlist name="gamelist">
+			<pos>0.025 0.20</pos>
+			<size>0.34 0.7</size>
+			<alignment>left</alignment>
+			<horizontalMargin>0.01</horizontalMargin>
+		</textlist>
+	</view>
+	
+	<view name="basic">
+		<image name="backtext1" extra="true">
+			<pos>0.02 0.19</pos>
+			<size>0.96 0.735</size>
+			<origin>0 0</origin>
+			<path>./../arts/back90.png</path>
+		</image>
+		<textlist name="gamelist">
+			<pos>0.04 0.21</pos>
+			<size>0.92 0.695</size>
+			<alignment>center</alignment>
+			<horizontalMargin>0.01</horizontalMargin>
+		</textlist>
+	</view>
+</theme>
