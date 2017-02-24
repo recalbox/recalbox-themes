@@ -5,18 +5,52 @@ For use with EmulationStation (http://www.emulationstation.org/)
 Screenshots
 ===========
 
-Startup Screen
-![Startup](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox/screenshots/startup.png)
+Main screen
+![main screen](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox-multi/screenshots/1.png)
 
-Detail View with scraped info
-![Detail](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox/screenshots/detail.png)
+standard layout / darker colorset
+![standard/darker](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox-multi/screenshots/2.png)
 
-Detail View without scraped info
-![NonScraped](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox/screenshots/nonscraped.png)
+
+white & black colorset
+![w&b](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox-multi/screenshots/3.png)
+
+
+no description layout / white & black colorset
+![nodesc/w&b](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox-multi/screenshots/4.png)
+
+
+big picture layout / black & white colorset
+![bigpicture/b&w](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox-multi/screenshots/5.png)
+
+
+portrait layout / bluechoco colorset
+![portrait/bluechoco](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox-multi/screenshots/6.png)
+
+
+supernature2k layout / darker colorset
+![supernature2k/darker](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox-multi/screenshots/7.png)
+
+
+
+controls layout / darker colorset
+![controls/darker](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox-multi/screenshots/8.png)
+
+
+config file-sharing
+![config](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox-multi/screenshots/9.png)
 
 
 Changelog
 =========
+
+24/02/2017
+
+V1.1
+
+-several improvments
+-new colorsets
+-new controls layout with standard controller layout image for each system
 
 25/08/2016
 
