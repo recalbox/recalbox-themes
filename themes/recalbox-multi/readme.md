@@ -1,4 +1,4 @@
-Theme 'recalbox' released by Recalbox's Community
+Theme 'recalbox-multi' released by Supernature2k from theme 'recalbox' made by Recalbox's community
 For use with EmulationStation (http://www.emulationstation.org/)
 
 
@@ -37,7 +37,7 @@ controls layout / darker colorset
 ![controls/darker](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox-multi/screenshots/8.png)
 
 
-config file-sharing
+config file
 ![config](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox-multi/screenshots/9.png)
 
 
@@ -48,16 +48,16 @@ Changelog
 
 V1.1
 
--several improvments
--new colorsets
--new controls layout with standard controller layout image for each system
+- several improvments
+- new colorsets
+- new controls layout with standard controller layout image for each system
 
 25/08/2016
 
 V1.0.11
 
--changed per system icons as default
--added several icons made by Paradadf
+- changed per system icons as default
+- added several icons made by Paradadf
 
 23/08/2016
 
@@ -66,8 +66,8 @@ V1.0.0
 
 Credits
 =======
--Supernature2k
--Paradadf
+- Supernature2k
+- Paradadf
 
 Original work from
 Recalbox's community :
