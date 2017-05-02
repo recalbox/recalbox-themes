@@ -21,5 +21,6 @@
 	<!--<include>./colorsets/bluechoco.xml</include>-->
 	<!--<include>./colorsets/blackandwhite.xml</include>-->
 	<!--<include>./colorsets/whiteandblack.xml</include>-->
+	<!--<include>./colorsets/standard_noinfo.xml</include>-->
 	
 </theme>
