@@ -1,6 +1,12 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	
+	<view name="system, basic, detailed"> 
+		<helpsystem name="help"> 
+			<fontSize>0.015</fontSize> 
+		</helpsystem> 
+	</view> 
+	
 	<view name="basic, detailed">
 		<image name="background" extra="true">
 			<tile>true</tile>
