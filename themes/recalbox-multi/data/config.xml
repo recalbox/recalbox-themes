@@ -10,6 +10,7 @@
 	<!--<include>./layouts/standard-nodesc.xml</include>-->
 	<!--<include>./layouts/Supernature2k.xml</include>-->
 	<!--<include>./layouts/controls.xml</include>-->
+	<!--<include>./layouts/tate.xml</include>-->
 	
 	
 	
@@ -20,5 +21,6 @@
 	<!--<include>./colorsets/bluechoco.xml</include>-->
 	<!--<include>./colorsets/blackandwhite.xml</include>-->
 	<!--<include>./colorsets/whiteandblack.xml</include>-->
+	<!--<include>./colorsets/standard_noinfo.xml</include>-->
 	
 </theme>
