@@ -22,7 +22,7 @@
 		</text>
 	</view>
 
-	<view name="basic, detailed">
+	<view name="system, basic, detailed">
 		<image name="band1" extra="true">
 			<color>33709F</color>
 		</image>
