@@ -1,38 +1,73 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	
+	<view name="system">
+		
+		<image name="consolegame" extra="true">
+			<pos>0.02 0.30</pos>
+			<maxSize>0.4 0.25</maxSize>
+			<origin>0 1</origin>
+		</image>
+		<image name="controller" extra="true">
+			<pos>0.78 0.30</pos>
+			<maxSize>0.15 0.25</maxSize>
+			<origin>1 1</origin>
+		</image>
+		
+		
+		<text name="info1" extra="true">
+			<pos>0.38 0.72</pos>
+		</text>
+		<text name="info2" extra="true">
+			<pos>0.38 0.74</pos>
+		</text>
+		<text name="info3" extra="true">
+			<pos>0.38 0.76</pos>
+		</text>
+		<text name="info4" extra="true">
+			<pos>0.38 0.78</pos>
+		</text>
+		<text name="info5" extra="true">
+			<pos>0.38 0.82</pos>
+		</text>
+		<text name="info6" extra="true">
+			<pos>0.38 0.84</pos>
+		</text>
+		<text name="info7" extra="true">
+			<pos>0.38 0.86</pos>
+		</text>
+		<text name="info8" extra="true">
+			<pos>0.38 0.88</pos>
+		</text>
+		<text name="info9" extra="true">
+			<pos>0.38 0.90</pos>
+		</text>
+		<text name="info10" extra="true">
+			<pos>0.38 0.92</pos>
+		</text>
+		
+	</view>
+	
+	
 	<view name="basic, detailed">
-		<image name="background" extra="true">
-			<tile>true</tile>
-			<size>1 1</size>
-			<pos>0 0</pos>
-			<origin>0 0</origin>
-			<path>./../arts/back.png</path>
+		
+		
+		<image name="consolegame" extra="true">
+			<pos>0.02 0.17</pos>
+			<maxSize>0.4 0.15</maxSize>
+			<origin>0 1</origin>
 		</image>
-		<image name="band1" extra="true">
-			<size>0.03 1</size>
-			<pos>0.80 0</pos>
-			<origin>0 0</origin>
-			<path>./../arts/band.png</path>
+		<image name="logo">
+			<pos>0.78 0.17</pos>
+			<maxSize>0.34 0.15</maxSize>
+			<origin>1 1</origin>
 		</image>
-		<image name="band2" extra="true">
-			<size>0.03 1</size>
-			<pos>0.829 0</pos>
+		<image name="console" extra="false">
+			<pos>1 1</pos>
+			<maxSize>0.01 0.01</maxSize>
 			<origin>0 0</origin>
-			<path>./../arts/band.png</path>
 		</image>
-		<image name="band3" extra="true">
-			<size>0.03 1</size>
-			<pos>0.858 0</pos>
-			<origin>0 0</origin>
-			<path>./../arts/band.png</path>
-		</image>
-		<image name="band4" extra="true">
-			<size>0.03 1</size>
-			<pos>0.887 0</pos>
-			<origin>0 0</origin>
-			<path>./../arts/band.png</path>
-		</image>
+			
 	</view>
 	
 	<view name="detailed">
@@ -140,9 +175,16 @@
 			<alignment>left</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 		</textlist>
-		<image name="controls" extra="true">
+		
+		<!-- this block avoids controls layout additional elements to interfer when mixing layouts-->
+		<image name="controls" extra="false">
 			<pos>1 1</pos>
 		</image>
+		<text name="control" extra="false">
+		</text>
+		<image name="backtext4" extra="false">
+		</image>
+		
 	</view>
 	
 	<view name="basic">

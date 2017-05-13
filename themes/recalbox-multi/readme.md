@@ -44,6 +44,16 @@ config file
 Changelog
 =========
 
+13/05/2017
+
+V2.0
+
+- position of console, controller, game and logo are now set globally in each layout
+- position of system info is now set globally in each layout
+- 3 new layouts: crt, tinyscreen and vertical
+- megadrive/32x/segacd/snes/nes/pce/pcecd/dreamcast have region variation setable in a config file in each directory
+- various tweaks, cleanup of useless files
+
 24/02/2017
 
 V1.1

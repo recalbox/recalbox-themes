@@ -31,6 +31,17 @@
 			<primaryColor>000000</primaryColor>
 			<secondaryColor>4d4d4d</secondaryColor>
 		</textlist>
+		
+		<!-- this block is only to force drawing of color bands BEFORE text background-->
+		<image name="band1" extra="true">
+		</image>
+		<image name="band2" extra="true">
+		</image>
+		<image name="band3" extra="true">
+		</image>
+		<image name="band4" extra="true">
+		</image>
+		
 	</view>
 	
 	<view name="basic">
