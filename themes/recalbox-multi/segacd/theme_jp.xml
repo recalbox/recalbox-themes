@@ -1,0 +1,30 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<include>./data/jp/colors.xml</include>
+	
+
+	<view name="system, basic, detailed">
+		<image name="logo">
+			<path>./data/jp/logo.svg</path>
+		</image> 
+		
+		<image name="consolegame" extra="true">
+			<path>./data/jp/consolegame.svg</path>
+		</image>
+	</view>
+	
+	<view name="system">
+		<image name="controller" extra="true">
+			<path>./data/jp/controller.svg</path>
+		</image>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="console" extra="true">
+			<path>./data/jp/console.svg</path>
+		</image>
+	</view>
+	
+			
+</theme>

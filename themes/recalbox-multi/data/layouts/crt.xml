@@ -1,0 +1,224 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+		
+		<helpsystem name="help">
+			<pos>0.08 0.9215</pos>
+		</helpsystem>
+		
+		<image name="consolegame" extra="true">
+			<pos>0.09 0.30</pos>
+			<maxSize>0.4 0.25</maxSize>
+			<origin>0 1</origin>
+		</image>
+		
+		<image name="controller" extra="true">
+			<pos>0.78 0.30</pos>
+			<maxSize>0.15 0.25</maxSize>
+			<origin>1 1</origin>
+		</image>
+		
+		<text name="info1" extra="true">
+			<pos>0.38 0.68</pos>
+		</text>
+		<text name="info2" extra="true">
+			<pos>0.38 0.70</pos>
+		</text>
+		<text name="info3" extra="true">
+			<pos>0.38 0.72</pos>
+		</text>
+		<text name="info4" extra="true">
+			<pos>0.38 0.74</pos>
+		</text>
+		<text name="info5" extra="true">
+			<pos>0.38 0.76</pos>
+		</text>
+		<text name="info6" extra="true">
+			<pos>0.38 0.78</pos>
+		</text>
+		<text name="info7" extra="true">
+			<pos>0.38 0.80</pos>
+		</text>
+		<text name="info8" extra="true">
+			<pos>0.38 0.82</pos>
+		</text>
+		<text name="info9" extra="true">
+			<pos>0.38 0.84</pos>
+		</text>
+		<text name="info10" extra="true">
+			<pos>0.38 0.86</pos>
+		</text>
+		
+	</view>
+	
+	<view name="basic, detailed">
+	
+		<helpsystem name="help">
+			<pos>0.08 0.9215</pos>
+		</helpsystem>
+		
+		<image name="console" extra="true">
+			<pos>0.08 0.20</pos>
+			<maxSize>0.115 0.12</maxSize>
+			<origin>0 1</origin>
+		</image>
+		
+		<image name="consolegame" extra="true">
+			<pos>1 1</pos>
+			<maxSize>0.07 0.07</maxSize>
+			<origin>0 0</origin>
+		</image>
+		
+		<image name="logo">
+			<pos>0.4 0.20</pos>
+			<maxSize>0.195 0.12</maxSize>
+			<origin>1 1</origin>
+		</image>
+		
+	</view>
+	
+	<view name="detailed">
+	
+		<image name="backtext2" extra="true">
+			<pos>0.08 0.21</pos>
+			<size>0.32 0.69</size>
+			<origin>0 0</origin>
+			<path>./../arts/back90.png</path>
+		</image>
+		
+		<image name="backtext3" extra="true">
+			<pos>0.405 0.07</pos>
+			<size>0.54 0.83</size>
+			<origin>0 0</origin>
+			<path>./../arts/back90.png</path>
+		</image>
+		
+		<image name="md_image">
+			<pos>0.675 0.64</pos>
+			<maxSize>0.53 0.50</maxSize>
+			<origin>0.5 0.5</origin>
+		</image>
+
+		<text name="md_players, md_genre, md_developer, md_publisher">
+			<size>0.14 0.023</size>
+		</text>
+		
+		<text name="md_lbl_releasedate">
+			<pos>0.68 0.115</pos>
+		</text>
+
+		<text name="md_lbl_developer">
+			<pos>0.68 0.15</pos>
+		</text>
+
+		<text name="md_lbl_publisher">
+			<pos>0.68 0.185</pos>
+		</text>
+
+		<text name="md_lbl_genre">
+			<pos>0.68 0.22</pos>
+		</text>
+
+		<text name="md_lbl_players">
+			<pos>0.68 0.255</pos>
+		</text>
+
+		<text name="md_lbl_lastplayed">
+			<pos>0.68 0.29</pos>
+		</text>
+
+		<text name="md_lbl_playcount">
+			<pos>0.68 0.325</pos>
+		</text>
+
+		<text name="md_lbl_favorite">
+			<pos>0.68 0.36</pos>
+		</text>
+
+		<datetime name="md_releasedate">
+			<pos>0.810 0.115</pos>
+		</datetime>
+
+		<text name="md_developer">
+			<pos>0.810 0.15</pos>
+		</text>
+
+		<text name="md_publisher">
+			<pos>0.810 0.185</pos>
+		</text>
+		<text name="md_genre">
+			<pos>0.810 0.22</pos>
+		</text>
+
+		<text name="md_players">
+			<pos>0.810 0.255</pos>
+		</text>
+
+		<datetime name="md_lastplayed">
+			<pos>0.810 0.29</pos>
+		</datetime>
+
+		<text name="md_playcount">
+			<pos>0.810 0.325</pos>
+		</text>
+
+		<text name="md_favorite">
+			<pos>0.810 0.36</pos>
+		</text>
+		
+		<text name="md_lbl_rating">
+			<pos>0.68 0.08</pos>
+		</text>
+		
+		
+		<rating name="md_rating">
+			<pos>0.810 0.08</pos>
+			<filledPath>./../arts/rating_filled.svg</filledPath>
+			<unfilledPath>./../arts/rating_empty.svg</unfilledPath>
+			<size>0.04 0.03</size>
+		</rating>
+
+		<text name="md_description">
+			<lineSpacing>1.2</lineSpacing>
+			<pos>0.41 0.08</pos>
+			<size>0.25 0.31</size>
+			<fontSize>0.02</fontSize>
+		</text>
+
+		<textlist name="gamelist">
+			<pos>0.09 0.22</pos>
+			<size>0.30 0.67</size>
+			<alignment>left</alignment>
+			<horizontalMargin>0.01</horizontalMargin>
+		</textlist>
+		
+		<!-- this block avoids controls layout additional elements to interfer when mixing layouts-->
+		<image name="controls" extra="false">
+			<pos>1 1</pos>
+		</image>
+		<text name="control" extra="false">
+		</text>
+		<image name="backtext4" extra="false">
+		</image>
+		
+	</view>
+	
+	<view name="basic">
+	
+		<image name="backtext1" extra="true">
+			<pos>0.08 0.22</pos>
+			<size>0.84 0.662</size>
+			<origin>0 0</origin>
+			<path>./../arts/back90.png</path>
+		</image>
+		
+		<textlist name="gamelist">
+			<pos>0.09 0.23</pos>
+			<size>0.82 0.660</size>
+			<alignment>center</alignment>
+			<horizontalMargin>0.01</horizontalMargin>
+		</textlist>
+		
+	</view>
+</theme>

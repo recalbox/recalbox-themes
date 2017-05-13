@@ -1,5 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
+	
 	<include>./../main.xml</include>
 	<include>./custom.xml</include>
 	
@@ -12,54 +13,16 @@
 	
 	<!-- uncomment this line to use specific rating icons -->
 	<include>./rating_icons.xml</include>
-
-	<view name="system">
-		<image name="logo">
-			<path>./data/logo3.svg</path>
-		</image> 
-		<image name="console" extra="true">
-			<path>./data/console.svg</path>
-			<pos>0.02 0.30</pos>
-			<maxSize>0.23 0.25</maxSize>
-			<origin>0 1</origin>
-		</image>
-		<image name="game" extra="true">
-			<path>./data/game.svg</path>
-			<pos>0.27 0.30</pos>
-			<maxSize>0.15 0.15</maxSize>
-			<origin>0 1</origin>
-		</image>
-		<image name="controller" extra="true">
-			<path>./data/controller.svg</path>
-			<pos>0.78 0.30</pos>
-			<maxSize>0.15 0.25</maxSize>
-			<origin>1 1</origin>
-		</image>
-	</view>
-
-	<view name="basic, detailed">
-		<image name="console" extra="true">
-			<path>./data/console.svg</path>
-			<pos>0.02 0.17</pos>
-			<maxSize>0.13 0.15</maxSize>
-			<origin>0 1</origin>
-		</image>
-		<image name="game" extra="true">
-			<path>./data/game.svg</path>
-			<pos>0.17 0.17</pos>
-			<maxSize>0.07 0.07</maxSize>
-			<origin>0 1</origin>
-		</image>
-		<image name="logo">
-			<path>./data/logo3.svg</path>
-			<pos>0.78 0.17</pos>
-			<maxSize>0.25 0.15</maxSize>
-			<origin>1 1</origin>
-		</image>
-	</view>
+	
+	<!-- uncomment one of these lines to choose region for this system-->
+	<include>./theme_eu.xml</include>
+	<!--<include>./theme_us.xml</include>-->
+	<!--<include>./theme_jp.xml</include>-->
+	
 	<view name="detailed">
 		<image name="controls" extra="true">
 			<path>./data/controls.svg</path>
 		</image>
-	</view>	
+	</view>
+			
 </theme>
