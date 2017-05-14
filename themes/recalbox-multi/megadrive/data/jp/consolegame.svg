@@ -21,7 +21,7 @@
    height="342.60001"><metadata
      id="metadata761"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs759" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,8 +39,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.64845173"
-     inkscape:cx="274.5"
+     inkscape:zoom="2.5938069"
+     inkscape:cx="668.92956"
      inkscape:cy="171.3"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -1923,7 +1923,7 @@
        style="fill:none;stroke:#414042;stroke-miterlimit:10" /><g
        id="g4197"><polygon
          id="polygon4199"
-         points="154.5,114.8 10.6,114.8 10.6,0 11.6,0 11.6,113.8 153.5,113.8 153.5,0 154.5,0 " /></g><rect
+         points="10.6,0 11.6,0 11.6,113.8 153.5,113.8 153.5,0 154.5,0 154.5,114.8 10.6,114.8 " /></g><rect
        id="rect4201"
        height="8.5"
        width="141.89999"
@@ -1952,10 +1952,10 @@
          inkscape:connector-curvature="0"
          style="fill:#ffffff" /><polygon
          id="polygon4213"
-         points="37.9,26.5 37.9,13.8 29.4,26.5 "
+         points="29.4,26.5 37.9,26.5 37.9,13.8 "
          style="fill:#ed2224" /><polygon
          id="polygon4215"
-         points="45,26.5 45,13.8 36.5,26.5 "
+         points="36.5,26.5 45,26.5 45,13.8 "
          style="fill:#ed2224" /><rect
          id="rect4217"
          height="12.5"
@@ -1992,7 +1992,7 @@
          inkscape:connector-curvature="0"
          style="fill:#11aa4b" /><polygon
          id="polygon4233"
-         points="59.2,25 58.7,25 58.7,26.3 58.3,26.3 58.3,25 57.9,25 57.9,24.7 59.2,24.7 "
+         points="58.7,26.3 58.3,26.3 58.3,25 57.9,25 57.9,24.7 59.2,24.7 59.2,25 58.7,25 "
          style="fill:#ffffff" /><polyline
          id="polyline4235"
          points="60.1,25.9 59.8,24.7 59.4,24.7 59.4,26.3 59.7,26.3 59.7,24.9 60,26.3 60.3,26.3 60.6,24.9     60.6,26.3 60.9,26.3 60.9,24.7 60.4,24.7 60.1,26   "
