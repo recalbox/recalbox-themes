@@ -1,0 +1,82 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Manufacturer : Sega</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Year of Release : 1988</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Units sold : 30 million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Best-selling game : Sonic the Hedgehog</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 16-bit Motorola 68000 @ 7.6 MHz</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>CPU2 : 8-bit Zilog Z80 @ 3.58 Mhz (sound CPU)</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>RAM : 64 kB / VRAM : 64kB / sound RAM : 8kB</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Video : 16-bit Sega VDP</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Resolution : 320×224 pixels, 64 colors (512 colors palette)</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Sound : Yamaha YM2612 FM and TI SN76489 PSG</text>
+		</text>	
+	</view>
+	
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true" region="eu">
+			<color>DCE3E6</color>
+		</image>
+		<image name="band2" extra="true" region="eu">
+			<color>D5202C</color>
+		</image>
+		<image name="band3" extra="true" region="eu">
+			<color>C0C1C4</color>
+		</image>
+		<image name="band4" extra="true" region="eu">
+			<color>212122</color>
+		</image>
+	</view>
+	
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true" region="jp">
+			<color>D2D2D2</color>
+		</image>
+		<image name="band2" extra="true" region="jp">
+			<color>A02B59</color>
+		</image>
+		<image name="band3" extra="true" region="jp">
+			<color>0069B4</color>
+		</image>
+		<image name="band4" extra="true" region="jp">
+			<color>00AA00</color>
+		</image>
+	</view>
+	
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true" region="us">
+			<color>D2D2D2</color>
+		</image>
+		<image name="band2" extra="true" region="us">
+			<color>488277</color>
+		</image>
+		<image name="band3" extra="true" region="us">
+			<color>3E64AE</color>
+		</image>
+		<image name="band4" extra="true" region="us">
+			<color>811B15</color>
+		</image>
+	</view>
+
+</theme>

@@ -1,0 +1,31 @@
+<theme>
+    <formatVersion>4</formatVersion>
+	
+	<include subset="colorset" name="standard colors">./colorsets/1-standard.xml</include>
+	<include subset="colorset" name="darker">./colorsets/darker.xml</include>
+	<include subset="colorset" name="black and white">./colorsets/blackandwhite.xml</include>
+	<include subset="colorset" name="blue and chocolat">./colorsets/bluechoco.xml</include>
+	<include subset="colorset" name="blue and orange">./colorsets/blueorange.xml</include>
+	<include subset="colorset" name="standard no info">./colorsets/standard_noinfo.xml</include>
+	<include subset="colorset" name="white and black">./colorsets/darker.xml</include>
+	
+	<include subset="gamelistview" name="standard gamelist">./gamelistviews/standard-landscape.xml</include>
+	<include subset="gamelistview" name="controls">./gamelistviews/controls.xml</include>
+	<include subset="gamelistview" name="crt">./gamelistviews/crt.xml</include>
+	<include subset="gamelistview" name="standard - big picture">./gamelistviews/standard-big_picture.xml</include>
+	<include subset="gamelistview" name="standard - no description">./gamelistviews/standard-nodesc.xml</include>
+	<include subset="gamelistview" name="standard - portrait">./gamelistviews/standard-portrait.xml</include>
+	<include subset="gamelistview" name="tiny screen">./gamelistviews/tinyscreen.xml</include>
+	<include subset="gamelistview" name="vertical screen">./gamelistviews/vertical.xml</include>
+	<include subset="gamelistview" name="Supernature2k">./gamelistviews/1-Supernature2k.xml</include>
+	
+	<include subset="systemview" name="standard carousel">./systemviews/origin.xml</include>
+	<include subset="systemview" name="vertical carousel left">./systemviews/1-vertical_carousel_left.xml</include>
+	<include subset="systemview" name="crt and tiny screen">./systemviews/crt_tinyscreen.xml</include>
+	<include subset="systemview" name="new carousel center">./systemviews/new_carousel.xml</include>
+	<include subset="systemview" name="new carousel top">./systemviews/new_carousel_top.xml</include>
+	<include subset="systemview" name="standard carousel no info">./systemviews/origin_noinfo.xml</include>
+	<include subset="systemview" name="vertical carousel">./systemviews/vertical_carousel.xml</include>
+	<include subset="systemview" name="Vertical carousel crt">./systemviews/vertical_carousel_crt.xml</include>
+	
+</theme>

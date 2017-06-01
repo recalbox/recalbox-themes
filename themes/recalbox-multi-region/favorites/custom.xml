@@ -1,0 +1,30 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Find all your favorites games in a single system.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Every time you mark a game as favorites in a system, you will find it here.</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Enjoy !</text>
+		</text>
+	</view>
+
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true">
+			<color>F6DD08</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>800000</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>FF0000</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>4C504E</color>
+		</image>
+	</view>
+</theme>

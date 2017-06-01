@@ -1,0 +1,48 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Manufacturer : Various</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Year of Release : 1985</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : MSX BASIC V3.0 (16 kB)</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Zilog Z80 compatible @ 3.58 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 64KB / VRAM 128KB</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ROM : 64KB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>GPU : Yamaha V9958 (aka MSX-Video)</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Sound chip : Yamaha YM2149 (PSG)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Resolution : 256×212 (19268 simultaneous colors)</text>
+		</text>
+	</view>
+
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true">
+			<color>d6d4d4</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>b7b7b7</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>515050</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>2323dc</color>
+		</image>
+	</view>
+</theme>

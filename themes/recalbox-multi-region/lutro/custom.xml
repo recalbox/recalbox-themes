@@ -1,0 +1,24 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Lutro is an experimental lua game framework for libretro following the LÖVE API.</text>
+		</text>
+	</view>
+
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true">
+			<color>74282b</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>ae353a</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>F2D8B5</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>00007f</color>
+		</image>
+	</view>
+</theme>

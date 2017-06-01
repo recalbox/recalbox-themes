@@ -1,0 +1,33 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Take screenshots of your best games and highscores,</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>then show them to your friends.</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Who will be the best player ...</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>God Bless Recalbox !</text>
+		</text>
+	</view>
+
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true">
+			<color>F2F2F2</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>D50F2A</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>A19795</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>4C504E</color>
+		</image>
+	</view>
+</theme>

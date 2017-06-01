@@ -1,0 +1,48 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>FB Alpha or FBA as it is commonly known is an emulator</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>of arcade games, that is, it takes the program code, graphic data, ...</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>from an orginal arcade game and emulate the hardware to make</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>the game run in it's original form.As far as the game is concerned</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>it is running in it's original cabinet. FBA is an open-source project</text>
+		</text>
+		<text name="info6" extra="true">
+			<text> and it is programmed by a group of people known as the FBA team.</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Over the years this has comprised Jan_Klaassen,</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>KEV, LoopMaster, Mike Haggar, Hyper Yagami, Ayeye.</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>FBA is based on the original FinalBurn by Dave.</text>
+		</text>
+	</view>
+
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true">
+			<color>C0392B</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>CF8A61</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>231F20</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>FFFFFF</color>
+		</image>
+	</view>
+</theme>

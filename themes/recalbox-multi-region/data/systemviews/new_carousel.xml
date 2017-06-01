@@ -1,0 +1,103 @@
+<theme>
+	<formatVersion>4</formatVersion>	
+	
+	<feature supported="carousel">
+  
+	<view name="system">
+
+		<carousel name="systemcarousel">
+			<color>ffffff00</color>
+			<logoScale>3</logoScale>
+			<logoSize>0.1 0.062</logoSize>
+			<maxLogoCount>3</maxLogoCount>
+		</carousel>
+
+		<text name="systemInfo">
+			<backgroundColor>DDDDDD00</backgroundColor>
+			<fontPath>./../arts/Exo2-BoldCondensed.otf</fontPath>
+		</text>
+		
+		<image name="systeminfo" extra="true">
+			<pos>0.5 0.5</pos>
+			<maxSize>0.5 0.35</maxSize>
+			<origin>0.5 0.5</origin>
+			<path>./../arts/systeminfo.svg</path>
+		</image>
+		
+		<image name="systeminfo2" extra="true">
+			<pos>0.165 0.5</pos>
+			<maxSize>0.2 0.12</maxSize>
+			<origin>0.5 0.5</origin>
+			<path>./../arts/systeminfo.svg</path>
+		</image>
+		
+		<image name="systeminfo3" extra="true">
+			<pos>0.835 0.5</pos>
+			<maxSize>0.2 0.12</maxSize>
+			<origin>0.5 0.5</origin>
+			<path>./../arts/systeminfo.svg</path>
+		</image>
+
+	</view>
+
+	</feature>
+	
+	<view name="system">
+		
+		<image name="consolegame" extra="true">
+			<pos>0.02 0.30</pos>
+			<maxSize>0.4 0.25</maxSize>
+			<origin>0 1</origin>
+		</image>
+		<image name="controller" extra="true">
+			<pos>0.78 0.30</pos>
+			<maxSize>0.15 0.25</maxSize>
+			<origin>1 1</origin>
+		</image>
+		
+		
+		<text name="info1" extra="true">
+			<pos>0.38 0.72</pos>
+			<size>0.41 0.02</size>
+		</text>
+		<text name="info2" extra="true">
+			<pos>0.38 0.74</pos>
+			<size>0.41 0.02</size>
+		</text>
+		<text name="info3" extra="true">
+			<pos>0.38 0.76</pos>
+			<size>0.41 0.02</size>
+		</text>
+		<text name="info4" extra="true">
+			<pos>0.38 0.78</pos>
+			<size>0.41 0.02</size>
+		</text>
+		<text name="info5" extra="true">
+			<pos>0.38 0.82</pos>
+			<size>0.41 0.02</size>
+		</text>
+		<text name="info6" extra="true">
+			<pos>0.38 0.84</pos>
+			<size>0.41 0.02</size>
+		</text>
+		<text name="info7" extra="true">
+			<pos>0.38 0.86</pos>
+			<size>0.41 0.02</size>
+		</text>
+		<text name="info8" extra="true">
+			<pos>0.38 0.88</pos>
+			<size>0.41 0.02</size>
+		</text>
+		<text name="info9" extra="true">
+			<pos>0.38 0.90</pos>
+			<size>0.41 0.02</size>
+		</text>
+		<text name="info10" extra="true">
+			<pos>0.38 0.92</pos>
+			<size>0.41 0.02</size>
+		</text>
+		
+	</view>
+	
+	
+</theme>

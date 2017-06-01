@@ -1,0 +1,46 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<include>./../main.xml</include>
+	<include>./custom.xml</include>
+	
+	<!-- uncomment one of these lines to override global layout for this system-->
+	<!--<include>./../data/layouts/standard-portrait.xml</include>-->
+	<!--<include>./../data/layouts/standard-landscape.xml</include>-->
+	<!--<include>./../data/layouts/standard-big_picture.xml</include>-->
+	<!--<include>./../data/layouts/standard-nodesc.xml</include>-->
+	<!--<include>./../data/layouts/Supernature2k.xml</include>-->
+	
+	<!-- uncomment this line to use specific rating icons -->
+	<include>./rating_icons.xml</include>
+	
+
+	<view name="system, basic, detailed">
+		<image name="logo">
+			<path>./data/logo.svg</path>
+		</image> 
+		
+		<image name="consolegame" extra="true">
+			<path>./data/consolegame.svg</path>
+		</image>
+	</view>
+	
+	<view name="system">
+		<image name="controller" extra="true">
+			<path>./data/controller.svg</path>
+		</image>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="console" extra="true">
+			<path>./data/console.svg</path>
+		</image>
+	</view>
+	
+	<view name="detailed">
+		<image name="controls" extra="true">
+			<path>./data/controls.svg</path>
+		</image>
+	</view>
+			
+</theme>

@@ -1,0 +1,94 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<include>./../main.xml</include>
+	<include>./custom.xml</include>
+	
+	<!-- uncomment one of these lines to override global layout for this system-->
+	<!--<include>./../data/layouts/standard-portrait.xml</include>-->
+	<!--<include>./../data/layouts/standard-landscape.xml</include>-->
+	<!--<include>./../data/layouts/standard-big_picture.xml</include>-->
+	<!--<include>./../data/layouts/standard-nodesc.xml</include>-->
+	<!--<include>./../data/layouts/Supernature2k.xml</include>-->
+	
+	<!-- uncomment this line to use specific rating icons -->
+	<include>./rating_icons.xml</include>
+	
+	<!-- uncomment one of these lines to choose region for this system-->
+	<!--<include>./theme_eu.xml</include>-->
+	<!--<include>./theme_us.xml</include>-->
+	<!--<include>./theme_jp.xml</include>-->
+	
+	<view name="detailed">
+		<image name="controls" extra="true">
+			<path>./data/controls.svg</path>
+		</image>
+	</view>
+	
+	<view name="system, basic, detailed">
+		<image name="logo" region="eu">
+			<path>./data/eu/logo.svg</path>
+		</image> 
+		
+		<image name="consolegame" extra="true" region="eu">
+			<path>./data/eu/consolegame.svg</path>
+		</image>
+	</view>
+	
+	<view name="system">
+		<image name="controller" extra="true" region="eu">
+			<path>./data/eu/controller.svg</path>
+		</image>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="console" extra="true" region="eu">
+			<path>./data/eu/console.svg</path>
+		</image>
+	</view>
+	
+	<view name="system, basic, detailed">
+		<image name="logo" region="jp">
+			<path>./data/jp/logo.svg</path>
+		</image> 
+		
+		<image name="consolegame" extra="true" region="jp">
+			<path>./data/jp/consolegame.svg</path>
+		</image>
+	</view>
+	
+	<view name="system">
+		<image name="controller" extra="true" region="jp">
+			<path>./data/jp/controller.svg</path>
+		</image>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="console" extra="true" region="jp">
+			<path>./data/jp/console.svg</path>
+		</image>
+	</view>
+	
+	<view name="system, basic, detailed">
+		<image name="logo" region="us">
+			<path>./data/us/logo.svg</path>
+		</image> 
+		
+		<image name="consolegame" extra="true" region="us">
+			<path>./data/us/consolegame.svg</path>
+		</image>
+	</view>
+	
+	<view name="system">
+		<image name="controller" extra="true" region="us">
+			<path>./data/us/controller.svg</path>
+		</image>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="console" extra="true" region="us">
+			<path>./data/us/console.svg</path>
+		</image>
+	</view>
+			
+</theme>

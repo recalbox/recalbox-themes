@@ -1,0 +1,79 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Manufacturer : Sega</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Year of Release : 1994</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Units sold : 665 000</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Two 32-bit Hitachi SH2 @ 23 MHz + Megadrive CPUs</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 256kB / VRAM : 256kB</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Video : 32X VDP</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Resolution : 320 x 224 pixels, 32768 colors</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Sound : Q-Sound 10bit Stereo PCM chip + Megadrive Sound chips</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Cart Size : 2MB - 4MB</text>
+		</text>		
+	</view>
+	
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true" region="eu">
+			<color>DCE3E6</color>
+		</image>
+		<image name="band2" extra="true" region="eu">
+			<color>D5202C</color>
+		</image>
+		<image name="band3" extra="true" region="eu">
+			<color>C0C1C4</color>
+		</image>
+		<image name="band4" extra="true" region="eu">
+			<color>212122</color>
+		</image>
+	</view>
+	
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true" region="jp">
+			<color>6177B3</color>
+		</image>
+		<image name="band2" extra="true" region="jp">
+			<color>1D46A5</color>
+		</image>
+		<image name="band3" extra="true" region="jp">
+			<color>F2BA5C</color>
+		</image>
+		<image name="band4" extra="true" region="jp">
+			<color>FBE627</color>
+		</image>
+	</view>
+	
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true" region="us">
+			<color>0084E2</color>
+		</image>
+		<image name="band2" extra="true" region="us">
+			<color>ED0A0A</color>
+		</image>
+		<image name="band3" extra="true" region="us">
+			<color>FFE607</color>
+		</image>
+		<image name="band4" extra="true" region="us">
+			<color>212122</color>
+		</image>
+	</view>
+	
+</theme>

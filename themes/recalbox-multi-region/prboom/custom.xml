@@ -1,0 +1,39 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Developer : id Software</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Year of Release : 1993</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>DOOM is a series of first-person shooter video games developed by id Software.</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>The series focuses on the exploits of an unnamed space marine operating under the UAC, who fights hordes of demons in order to survive.</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Doom is one of the pioneering FPS games, introducing to IBM-compatible computers features such as 3D graphics,</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>third dimension spatiality, and support for player-created modifications with the Doom WAD format.</text>
+		</text>
+	</view>
+
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true">
+			<color>33709F</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>DFDED1</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>D37112</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>A63417</color>
+		</image>
+	</view>
+</theme>
