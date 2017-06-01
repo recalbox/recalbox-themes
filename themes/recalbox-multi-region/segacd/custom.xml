@@ -1,0 +1,82 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Manufacturer : Sega</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Year of Release : 1991</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Units sold : 30 million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Best-selling game : Sewer Shark</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 16-bit Motorola 68000 @ 12.5 MHz + Megadrive CPUs</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 512kB / VRAM : 256kB / sound RAM : 16kB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Video : Custom ASIC</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Resolution : 320×224 pixels, 64 colors (512 colors palette)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Sound : Ricoh RF5C164 + Megadrive Sound chips </text>
+		</text>		
+		<text name="info10" extra="true">
+			<text>Media : 500MB CD-ROM discs</text>
+		</text>
+	</view>
+	
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true" region="eu">
+			<color>DCE3E6</color>
+		</image>
+		<image name="band2" extra="true" region="eu">
+			<color>D5202C</color>
+		</image>
+		<image name="band3" extra="true" region="eu">
+			<color>C0C1C4</color>
+		</image>
+		<image name="band4" extra="true" region="eu">
+			<color>212122</color>
+		</image>
+	</view>
+	
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true" region="jp">
+			<color>5A97D0</color>
+		</image>
+		<image name="band2" extra="true" region="jp">
+			<color>1D46A5</color>
+		</image>
+		<image name="band3" extra="true" region="jp">
+			<color>DEAD2C</color>
+		</image>
+		<image name="band4" extra="true" region="jp">
+			<color>732A46</color>
+		</image>
+	</view>
+	
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true" region="us">
+			<color>4B95D1</color>
+		</image>
+		<image name="band2" extra="true" region="us">
+			<color>2B83C5</color>
+		</image>
+		<image name="band3" extra="true" region="us">
+			<color>B2AE85</color>
+		</image>
+		<image name="band4" extra="true" region="us">
+			<color>212122</color>
+		</image>
+	</view>
+
+</theme>

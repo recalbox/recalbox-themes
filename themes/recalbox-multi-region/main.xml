@@ -1,0 +1,108 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./data/config.xml</include>
+	
+	
+	<view name="system">
+	
+		<sound name="directory">
+			<path>./music</path>
+		</sound>
+		
+		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10, info11, info12" extra="true">
+			<alignment>left</alignment>
+			<fontPath>./data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
+			<fontSize>0.021</fontSize>
+		</text>
+		
+	</view>
+	
+	<view name="system, basic, detailed">
+	
+		<image name="background" extra="true">
+			<tile>true</tile>
+			<size>1 1</size>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<path>./data/arts/back.png</path>
+		</image>
+		
+		<image name="band1" extra="true">
+			<size>0.03 1</size>
+			<pos>0.80 0</pos>
+			<origin>0 0</origin>
+			<path>./data/arts/band.png</path>
+		</image>
+		
+		<image name="band2" extra="true">
+			<size>0.03 1</size>
+			<pos>0.829 0</pos>
+			<origin>0 0</origin>
+			<path>./data/arts/band.png</path>
+		</image>
+		
+		<image name="band3" extra="true">
+			<size>0.03 1</size>
+			<pos>0.858 0</pos>
+			<origin>0 0</origin>
+			<path>./data/arts/band.png</path>
+		</image>
+		
+		<image name="band4" extra="true">
+			<size>0.03 1</size>
+			<pos>0.887 0</pos>
+			<origin>0 0</origin>
+			<path>./data/arts/band.png</path>
+		</image>
+		
+	</view>
+	
+	<view name="basic, detailed">
+		
+		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite">
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./data/arts/Exo2-BoldCondensed.otf</fontPath>
+			<fontSize>0.02</fontSize>
+			<size>0.144 0.02</size>
+		</text>
+		
+		<text name="md_developer, md_publisher, md_genre, md_players, md_playcount, md_favorite">
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./data/arts/Exo2-RegularCondensed.otf</fontPath>
+			<fontSize>0.02</fontSize>
+			<size>0.144 0.02</size>
+		</text>
+		
+		<text name="control" extra="true">
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./data/arts/Exo2-BoldCondensed.otf</fontPath>
+			<fontSize>0.02</fontSize>
+		</text>
+		<text name="no_image" extra="true">
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./data/arts/Exo2-BoldCondensed.otf</fontPath>
+			<fontSize>0.02</fontSize>
+		</text>
+		
+		<text name="md_description">
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
+			<fontSize>0.024</fontSize>
+		</text>
+		
+		<datetime name="md_releasedate, md_lastplayed">
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./data/arts/Exo2-RegularCondensed.otf</fontPath>
+			<fontSize>0.02</fontSize>
+			<size>0 0.02</size>
+		</datetime>
+		
+		<textlist name="gamelist">
+			<fontPath>./data/arts/Exo2-BoldCondensed.otf</fontPath>
+			<fontSize>0.025</fontSize>
+			<forceUppercase>1</forceUppercase>
+		</textlist>
+		
+	</view>
+	
+</theme>

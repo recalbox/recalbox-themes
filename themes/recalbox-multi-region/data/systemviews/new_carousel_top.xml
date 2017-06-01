@@ -1,0 +1,87 @@
+<theme>
+	<formatVersion>4</formatVersion>	
+	
+	<feature supported="carousel">
+  
+	<view name="system">
+
+		<carousel name="systemcarousel">
+			<pos>0 0.05</pos>
+			<size>0.35 0.2</size>
+			<logoScale>3</logoScale>
+			<logoSize>0.1 0.062</logoSize>
+			<maxLogoCount>1</maxLogoCount>
+		</carousel>
+
+		<text name="systemInfo">
+			<pos>0 0</pos>
+			<size>0.35 0.05</size>
+			<backgroundColor>DDDDDD00</backgroundColor>
+			<fontPath>./../arts/Exo2-BoldCondensed.otf</fontPath>
+			<fontSize>0.02</fontSize>
+		</text>
+		
+
+	</view>
+
+	</feature>
+	
+	<view name="system">
+		
+		<image name="consolegame" extra="true">
+			<pos>0.32 0.6</pos>
+			<maxSize>0.6 0.6</maxSize>
+			<origin>0.5 0.5</origin>
+		</image>
+		<image name="controller" extra="true">
+			<pos>0.78 0.30</pos>
+			<maxSize>0.15 0.25</maxSize>
+			<origin>1 1</origin>
+		</image>
+		
+		
+		<text name="info1" extra="true">
+			<pos>0.38 0.05</pos>
+			<size>0.27 0.02</size>
+		</text>
+		<text name="info2" extra="true">
+			<pos>0.38 0.07</pos>
+			<size>0.27 0.02</size>
+		</text>
+		<text name="info3" extra="true">
+			<pos>0.38 0.09</pos>
+			<size>0.27 0.02</size>
+		</text>
+		<text name="info4" extra="true">
+			<pos>0.38 0.11</pos>
+			<size>0.27 0.02</size>
+		</text>
+		<text name="info5" extra="true">
+			<pos>0.38 0.13</pos>
+			<size>0.27 0.02</size>
+		</text>
+		<text name="info6" extra="true">
+			<pos>0.38 0.15</pos>
+			<size>0.27 0.02</size>
+		</text>
+		<text name="info7" extra="true">
+			<pos>0.38 0.17</pos>
+			<size>0.27 0.02</size>
+		</text>
+		<text name="info8" extra="true">
+			<pos>0.38 0.19</pos>
+			<size>0.27 0.02</size>
+		</text>
+		<text name="info9" extra="true">
+			<pos>0.38 0.21</pos>
+			<size>0.27 0.02</size>
+		</text>
+		<text name="info10" extra="true">
+			<pos>0.38 0.23</pos>
+			<size>0.27 0.02</size>
+		</text>
+		
+	</view>
+	
+	
+</theme>

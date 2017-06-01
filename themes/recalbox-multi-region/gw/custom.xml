@@ -1,0 +1,48 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Manufacturer : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Year of Release : 1980</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Units sold : 43.4 million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Best-selling game : Donkey Kong</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Created by game designer Gunpei Yokoi,</text>			
+		</text>
+		<text name="info6" extra="true">
+			<text>Game and Watch (GW) features a game in addition to a clock, an alarm, or both.</text>			
+		</text>
+		<text name="info7" extra="true">
+			<text>It was the earliest Nintendo product to gamer major succes.</text>			
+		</text>
+		<text name="info8" extra="true">
+			<text>59 GW games were released and one only available as a contest prize.</text>			
+		</text>
+		<text name="info9" extra="true">
+			<text>Mr GW is a character often considered as the mascot of the GW series.</text>			
+		</text>
+	</view>
+
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true">
+			<color>C4353D</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>C2904A</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>853641</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>4C301C</color>
+		</image>
+	</view>
+</theme>
