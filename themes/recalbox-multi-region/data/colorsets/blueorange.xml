@@ -32,6 +32,13 @@
 
 	</feature>
 	
+	<view name="menu">
+		<helpsystem name="help">
+			<textColor>FFFFFF</textColor>
+			<iconColor>FFFFFF</iconColor>
+		</helpsystem>
+	</view>
+	
 	<view name="system">
 		<image name="background" extra="true">
 			<color>001FFF</color>

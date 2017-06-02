@@ -34,7 +34,11 @@
 
 	</feature>
 	
-	
+	<view name="menu">
+		<helpsystem name="help">
+			<pos>0.08 0.9215</pos>
+		</helpsystem>
+	</view>
 	
 	
 	<view name="system">
