@@ -1,0 +1,70 @@
+<theme>
+	<formatVersion>4</formatVersion>	
+	
+	<feature supported="carousel">
+  
+	<view name="system">
+
+		<carousel name="systemcarousel">
+			<type>vertical</type>
+			<pos>0.3 0</pos>
+			<size>0.4 1</size>
+			<color>ffffff00</color>
+			<logoScale>2</logoScale>
+			<logoSize>0.15 0.093</logoSize>
+			<maxLogoCount>5</maxLogoCount>
+		</carousel>
+
+		<text name="systemInfo">
+			<backgroundColor>ffffff00</backgroundColor>
+			<fontPath>./../arts/Exo2-BoldCondensed.otf</fontPath>
+			<fontSize>0.035</fontSize>
+			<pos>0.3 0.57</pos>
+			<size>0.4 0.1</size>
+		</text>
+			
+		<image name="systeminfo" extra="true">
+			<pos>0.5 0.5</pos>
+			<maxSize>0.5 0.3</maxSize>
+			<origin>0.5 0.5</origin>
+			<path>./../arts/systeminfo.svg</path>
+		</image>
+
+	</view>
+
+	</feature>
+	
+	<view name="menu">
+		<helpsystem name="help">
+			<pos>0.08 0.9215</pos>
+		</helpsystem>
+	</view>
+	
+	
+	<view name="system">
+	
+		<helpsystem name="help">
+			<pos>0.08 0.9215</pos>
+		</helpsystem>
+		
+		<image name="consolegame" extra="true">
+			<pos>0.09 0.30</pos>
+			<maxSize>0.3 0.25</maxSize>
+			<origin>0 1</origin>
+		</image>
+		
+		<image name="controller" extra="true">
+			<pos>0.78 0.30</pos>
+			<maxSize>0.15 0.25</maxSize>
+			<origin>1 1</origin>
+		</image>
+		
+		
+		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10" extra="false">
+			<pos>1 1</pos>
+		</text>
+		
+	</view>
+	
+	
+</theme>

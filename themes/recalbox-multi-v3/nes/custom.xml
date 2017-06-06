@@ -1,0 +1,67 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Manufacturer : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Year of Release : 1983</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Units sold : 61.79 million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Best-selling game : Super Mario Bros.</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 8-bit MOS 6502 @ 1.79MHz</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 2kB / VRAM : 2kB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Video : 8-Bit PPU (Picture Processing Unit)</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Resolution : 256 x 240 pixels, 25 colors (64 colors palette)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Sound : PSG sound (2 Square Waves, 1 Triangle Wave, 1 White Noise)</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Cart Size : 8kB - 1MB</text>
+		</text>
+	</view>
+
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true">
+			<color>FEE94B</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>7EEE80</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>FF7961</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>0098DF</color>
+		</image>
+	</view>
+	
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true" region="jp">
+			<color>EA2C27</color>
+		</image>
+		<image name="band2" extra="true" region="jp">
+			<color>E6E7E8</color>
+		</image>
+		<image name="band3" extra="true" region="jp">
+			<color>C0A987</color>
+		</image>
+		<image name="band4" extra="true" region="jp">
+			<color>AA1C41</color>
+		</image>
+	</view>
+	
+</theme>
