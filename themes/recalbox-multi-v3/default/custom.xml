@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true">
+			<text>Recalbox</text>
+		</text>
+		
+	</view>
+	
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true">
+			<color>027FE1</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>8AEE49</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>FF0000</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>FF5DDC</color>
+		</image>
+	</view>
+	
+</theme>
