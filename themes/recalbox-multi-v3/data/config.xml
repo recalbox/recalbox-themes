@@ -17,7 +17,7 @@
 	<include subset="gamelistview" name="5-standard - portrait">./gamelistviews/standard-portrait.xml</include>
 	<include subset="gamelistview" name="7-tiny screen">./gamelistviews/tinyscreen.xml</include>
 	<include subset="gamelistview" name="8-vertical screen">./gamelistviews/vertical.xml</include>
-	<include subset="gamelistview" name="9-Supernature2k">./gamelistviews/1-Supernature2k.xml</include>
+	<include subset="gamelistview" name="9-Supernature2k">./gamelistviews/Supernature2k.xml</include>
 	
 	<include subset="systemview" name="2-standard carousel">./systemviews/origin.xml</include>
 	<include subset="systemview" name="1-vertical carousel left">./systemviews/vertical_carousel_left.xml</include>
