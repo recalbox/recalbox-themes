@@ -25,7 +25,7 @@
 		</text>
 			
 		<image name="systeminfo, systeminfo2, systeminfo3" extra="true">
-			<color>9F9F9F</color>
+			<color>9F9F9FAA</color>
 		</image>
 
 	</view>

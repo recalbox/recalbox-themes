@@ -152,22 +152,6 @@
 			<forceUppercase>1</forceUppercase>
 		</textlist>
 		
-		<image name="console" extra="true">
-			<path>./$system/data/console.svg</path>
-		</image>
-		
-		<image name="console" extra="true" region="eu">
-			<path>./$system/data/eu/console.svg</path>
-		</image>
-		
-		<image name="console" extra="true" region="jp">
-			<path>./$system/data/jp/console.svg</path>
-		</image>
-		
-		<image name="console" extra="true" region="us">
-			<path>./$system/data/us/console.svg</path>
-		</image>
-		
 	</view>
 	
 	<view name="detailed">

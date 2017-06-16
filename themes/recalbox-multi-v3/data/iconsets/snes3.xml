@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<view name="menu, system, basic, detailed">
+		<helpsystem name="help">
+			<iconColor>FFFFFFFF</iconColor>
+			<iconUpDown>./../arts/snes3/updown.png</iconUpDown>
+			<iconLeftRight>./../arts/snes3/leftright.png</iconLeftRight>
+			<iconUpDownLeftRight>./../arts/snes3/all.png</iconUpDownLeftRight>
+			<iconA>./../arts/snes3/a.png</iconA>
+			<iconB>./../arts/snes3/b.png</iconB>
+			<iconX>./../arts/snes3/x.png</iconX>
+			<iconY>./../arts/snes3/y.png</iconY>
+			<iconL>./../arts/snes3/l.png</iconL>
+			<iconR>./../arts/snes3/r.png</iconR>
+			<iconStart>./../arts/snes3/start.png</iconStart>
+			<iconSelect>./../arts/snes3/select.png</iconSelect>
+		</helpsystem>		
+	</view>
+	
+</theme>
