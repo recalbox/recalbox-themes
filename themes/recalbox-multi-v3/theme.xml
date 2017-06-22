@@ -34,6 +34,41 @@
 		
 	</view>
 	
+	<view name="menu, system, basic, detailed">
+		<helpsystem name="help">
+			<fontPath>./data/arts/Raleway-SemiBold.ttf</fontPath>
+			<fontSize>0.028</fontSize>
+		</helpsystem>
+	</view>
+	
+	<view name="menu">
+		<menuText name="menufooter">
+			<fontPath>./data/arts/Raleway-SemiBold.ttf</fontPath>
+			<fontSize>0.02</fontSize>
+			<color>777777FF</color>
+		</menuText>
+		<menuText name="menutext">
+			<fontPath>./data/arts/Raleway-Regular.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+			<color>262626FF</color>
+			<separatorColor>262626FF</separatorColor>
+		</menuText>
+		<menuTextSmall name="menutextsmall">
+			<fontPath>./data/arts/Raleway-Regular.ttf</fontPath>
+			<fontSize>0.02</fontSize>
+			<color>262626FF</color>
+		</menuTextSmall>
+		<menuText name="menutitle">
+			<fontPath>./data/arts/Raleway-SemiBold.ttf</fontPath>
+			<fontSize>0.045</fontSize>
+			<color>181818FF</color>
+		</menuText>
+		<menuBackground name="menubg">
+			<!--<path>./data/arts/frame.png</path>-->
+			<color>AAAAAADD</color>
+		</menuBackground>
+	</view>
+	
 	<view name="system, basic, detailed">
 	
 		<image name="background" extra="true">
@@ -151,22 +186,6 @@
 			<fontSize>0.025</fontSize>
 			<forceUppercase>1</forceUppercase>
 		</textlist>
-		
-		<image name="console" extra="true">
-			<path>./$system/data/console.svg</path>
-		</image>
-		
-		<image name="console" extra="true" region="eu">
-			<path>./$system/data/eu/console.svg</path>
-		</image>
-		
-		<image name="console" extra="true" region="jp">
-			<path>./$system/data/jp/console.svg</path>
-		</image>
-		
-		<image name="console" extra="true" region="us">
-			<path>./$system/data/us/console.svg</path>
-		</image>
 		
 	</view>
 	

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1190.9375" height="584.51624">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="196.32117">
   <defs>
     <clipPath id="a">
       <path d="M0 467.613h952.75V0H0v467.613z"/>
@@ -13,7 +13,7 @@
       <path d="M0 467.613h952.75V0H0v467.613z"/>
     </clipPath>
   </defs>
-  <g clip-path="url(#a)" transform="matrix(1.25,0,0,-1.25,0,584.51625)">
+  <g clip-path="url(#a)" transform="matrix(0.41983731,0,0,-0.41983731,0,196.32117)">
     <path fill="#bbb" d="M1.7038 467.6125h949.342c.941 0 1.704-.763 1.704-1.704V1.7035c0-.941-.763-1.704-1.704-1.704H1.7038c-.941 0-1.704.763-1.704 1.704v464.205c0 .941.763 1.704 1.704 1.704"/>
     <path fill="#777" stroke="#777" stroke-width="1.704" d="M774.08 217.346h159.473V17.664H774.08v199.682z" stroke-linecap="round" stroke-linejoin="round"/>
     <path fill="#777" d="M53.6892 277.8068h624.232l-39.42-40.891H14.2702l39.419 40.891zM0 236.134h952.75v-3.408H0v3.408z"/>
@@ -21,13 +21,13 @@
     <path fill="#777" d="M0 320.745h952.75v-3.408H0v3.408z"/>
     <path fill="#ccc" d="M0 317.337h952.75v-2.045H0v2.045z"/>
   </g>
-  <g clip-path="url(#b)" transform="matrix(1.25,0,0,-1.25,0,584.51625)">
+  <g clip-path="url(#b)" transform="matrix(0.41983731,0,0,-0.41983731,0,196.32117)">
     <path fill="#777" d="M1.7038 467.6125h949.342c.941 0 1.704-.763 1.704-1.704V1.7035c0-.941-.763-1.704-1.704-1.704H1.7038c-.941 0-1.704.763-1.704 1.704v464.205c0 .941.763 1.704 1.704 1.704"/>
   </g>
-  <g clip-path="url(#c)" transform="matrix(1.25,0,0,-1.25,0,584.51625)">
+  <g clip-path="url(#c)" transform="matrix(0.41983731,0,0,-0.41983731,0,196.32117)">
     <path fill="#ccc" d="M1.7038 467.6125h949.342c.941 0 1.704-.763 1.704-1.704V1.7035c0-.941-.763-1.704-1.704-1.704H1.7038c-.941 0-1.704.763-1.704 1.704v464.205c0 .941.763 1.704 1.704 1.704"/>
   </g>
-  <g clip-path="url(#d)" transform="matrix(1.25,0,0,-1.25,0,584.51625)">
+  <g clip-path="url(#d)" transform="matrix(0.41983731,0,0,-0.41983731,0,196.32117)">
     <path fill="#777" stroke="#777" stroke-width="1.704" d="M644.812 217.346h119.264V97.4H644.812v119.946z" stroke-linecap="round" stroke-linejoin="round"/>
     <path fill="#777" d="M17.6677 217.3458V57.3998h49.573v-39.936h478.517v39.936h19.87v40h69.121v119.946H17.6677z"/>
     <path fill="none" stroke="#777" stroke-width="1.704" d="M17.6677 217.3458V57.3998h49.573v-39.936h478.517v39.936h19.87v40h69.121v119.946H17.6677z" stroke-linecap="round" stroke-linejoin="round"/>

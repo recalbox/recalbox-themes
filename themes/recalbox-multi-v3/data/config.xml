@@ -9,6 +9,13 @@
 	<include subset="colorset" name="6-standard no info">./colorsets/standard_noinfo.xml</include>
 	<include subset="colorset" name="7-white and black">./colorsets/darker.xml</include>
 	
+	<include subset="iconset" name="1-standard icons">./iconsets/default.xml</include>
+	<include subset="iconset" name="2-SNES">./iconsets/snes.xml</include>
+	<include subset="iconset" name="5-SNES2">./iconsets/snes2.xml</include>
+	<include subset="iconset" name="6-SNES3">./iconsets/snes3.xml</include>
+	<include subset="iconset" name="3-PSX">./iconsets/psx.xml</include>
+	<include subset="iconset" name="4-XBox">./iconsets/xbox.xml</include>
+	
 	<include subset="gamelistview" name="1-standard gamelist">./gamelistviews/standard-landscape.xml</include>
 	<include subset="gamelistview" name="2-controls">./gamelistviews/controls.xml</include>
 	<include subset="gamelistview" name="6-crt">./gamelistviews/crt.xml</include>
