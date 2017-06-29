@@ -8,6 +8,10 @@ Based on the theme "simplelight"  by:
 Changelog
 =========
 
+- 28-6-2017 Multiple changes (By RetroWilly)
+  - Cleaned up old unused files
+  - Minor logo changes
+
 - 26-1-2017 (By RetroWilly)
   -BackgroundImages overhaul
   -System Icon changes

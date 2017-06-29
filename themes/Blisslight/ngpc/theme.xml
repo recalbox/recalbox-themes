@@ -6,7 +6,7 @@
       <path>./sounds/system.ogg</path>
     </sound>
     <image name="background" extra="true">
-      <path>./art/ngpc_art_blur.jpg</path>
+      <path>./art/ngpc_art.jpg</path>
     </image>
     <image name="logo">
       <path>./art/ngpc.svg</path>
@@ -18,7 +18,7 @@
   </view>
   <view name="basic, detailed">
     <image name="background">
-      <path>./art/ngpc_art_blur.jpg</path>
+      <path>./art/ngpc_art.jpg</path>
     </image>
     <text name="system_name_1" extra="true">
       <text>SNK</text>

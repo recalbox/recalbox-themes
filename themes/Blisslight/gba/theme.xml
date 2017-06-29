@@ -6,7 +6,7 @@
       <path>./sounds/system.ogg</path>
     </sound>
     <image name="background" extra="true">
-      <path>./art/gba_art_blur.jpg</path>
+      <path>./art/gba_art.jpg</path>
     </image>
     <image name="logo">
       <path>./art/gba.svg</path>
@@ -18,7 +18,7 @@
   </view>
   <view name="basic, detailed">
     <image name="background">
-      <path>./art/gba_art_blur.jpg</path>
+      <path>./art/gba_art.jpg</path>
     </image>
     <text name="system_name_1" extra="true">
       <text>Nintendo</text>
@@ -124,8 +124,8 @@
       <unfilledPath>./../art/star_hollow_3_spacing.svg</unfilledPath>
     </rating>
     <text name="md_description">
-      <size>0.52 0.35</size>
-      <pos>0.025 0.545</pos>
+      <size>0.52 0.3</size>
+      <pos>0.025 0.577</pos>
     </text>
     <textlist name="gamelist">
       <pos>0.615 0.22</pos>
