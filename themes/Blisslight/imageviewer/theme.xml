@@ -3,10 +3,10 @@
   <include>./../Bliss.xml</include>
   <view name="system">
     <sound name="bgsound">
-      <path>./sounds/Recalbox Main Theme 00 - by machette.ogg</path>
+      <path>./sounds/system.ogg</path>
     </sound>
     <image name="background" extra="true">
-      <path>./art/imageviewer_art_blur.jpg</path>
+      <path>./art/imageviewer_art.jpg</path>
     </image>
     <image name="logo">
       <path>./art/imagev.svg</path>
@@ -18,7 +18,7 @@
   </view>
   <view name="basic, detailed">
     <image name="background">
-      <path>./art/imageviewer_art_blur.jpg</path>
+      <path>./art/imageviewer_art.jpg</path>
     </image>
     <text name="system_name_1" extra="true">
       <text>Imageviewer</text>
