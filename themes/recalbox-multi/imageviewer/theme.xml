@@ -1,5 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
+	
 	<include>./../main.xml</include>
 	<include>./custom.xml</include>
 	
@@ -12,31 +13,34 @@
 	
 	<!-- uncomment this line to use specific rating icons -->
 	<include>./rating_icons.xml</include>
+	
 
-	<view name="system">
+	<view name="system, basic, detailed">
 		<image name="logo">
 			<path>./data/logo.svg</path>
 		</image> 
-		<image name="console" extra="true">
-			<path>./data/console.svg</path>
-			<pos>0.02 0.35</pos>
-			<maxSize>0.75 0.30</maxSize>
-			<origin>0 1</origin>
+		
+		<image name="consolegame" extra="true">
+			<path>./data/consolegame.svg</path>
+		</image>
+	</view>
+	
+	<view name="system">
+		<image name="controller" extra="true">
+			<path>./data/controller.svg</path>
 		</image>
 	</view>
 
 	<view name="basic, detailed">
 		<image name="console" extra="true">
 			<path>./data/console.svg</path>
-			<pos>0.02 0.17</pos>
-			<maxSize>0.38 0.15</maxSize>
-			<origin>0 1</origin>
-		</image>
-		<image name="logo">
-			<path>./data/logo.svg</path>
-			<pos>0.78 0.17</pos>
-			<maxSize>0.25 0.15</maxSize>
-			<origin>1 1</origin>
 		</image>
 	</view>
+	
+	<view name="detailed">
+		<image name="controls" extra="true">
+			<path>./data/controls.svg</path>
+		</image>
+	</view>
+			
 </theme>

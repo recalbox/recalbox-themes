@@ -1,0 +1,177 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+		
+		<image name="consolegame" extra="true">
+			<pos>0.02 0.30</pos>
+			<maxSize>0.4 0.25</maxSize>
+			<origin>0 1</origin>
+		</image>
+		<image name="controller" extra="true">
+			<pos>0.78 0.30</pos>
+			<maxSize>0.15 0.25</maxSize>
+			<origin>1 1</origin>
+		</image>
+		
+		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10" extra="false">
+			<pos>1 1</pos>
+		</text>
+		
+	</view>
+	
+	
+	<view name="basic, detailed">
+		
+		
+		<image name="consolegame" extra="true">
+			<pos>0.02 0.17</pos>
+			<maxSize>0.4 0.15</maxSize>
+			<origin>0 1</origin>
+		</image>
+		<image name="logo">
+			<pos>0.78 0.17</pos>
+			<maxSize>0.34 0.15</maxSize>
+			<origin>1 1</origin>
+		</image>
+		<image name="console" extra="false">
+			<pos>1 1</pos>
+			<maxSize>0.01 0.01</maxSize>
+			<origin>0 0</origin>
+		</image>
+			
+	</view>
+	
+	<view name="detailed">
+		<image name="backtext2" extra="true">
+			<pos>0.02 0.19</pos>
+			<size>0.96 0.5</size>
+			<origin>0 0</origin>
+			<path>./../arts/back90.png</path>
+		</image>
+		<image name="backtext3" extra="true">
+			<pos>0.02 0.71</pos>
+			<size>0.96 0.23</size>
+			<origin>0 0</origin>
+			<path>./../arts/back90.png</path>
+		</image>
+		
+		<image name="md_image">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.36</pos>
+			<maxSize>0.96 0.32</maxSize>
+		</image>
+
+		<text name="md_players, md_genre, md_developer, md_publisher">
+			<size>0.14 0.023</size>
+		</text>
+		
+		<text name="md_lbl_releasedate">
+			<pos>1 1</pos>
+		</text>		
+		<datetime name="md_releasedate">
+			<pos>1 1</pos>			
+		</datetime>		
+		
+		<text name="md_lbl_developer">
+			<pos>1 1</pos>
+		</text>		
+		<text name="md_developer">
+			<pos>1 1</pos>
+		</text>
+		
+		<text name="md_lbl_publisher">
+			<pos>1 1</pos>
+		</text>		
+		<text name="md_publisher">
+			<pos>1 1</pos>
+		</text>		
+		
+		<text name="md_lbl_genre">
+			<pos>1 1</pos>
+		</text>		
+		<text name="md_genre">
+			<pos>1 1</pos>
+		</text>		
+		
+		<text name="md_lbl_players">
+			<pos>1 1</pos>
+		</text>		
+		<text name="md_players">
+			<pos>1 1</pos>
+		</text>		
+
+		<text name="md_lbl_lastplayed">
+			<pos>1 1</pos>
+		</text>
+		<datetime name="md_lastplayed">
+			<pos>1 1</pos>
+		</datetime>
+		
+		<text name="md_lbl_playcount">
+			<pos>1 1</pos>
+		</text>
+		<text name="md_playcount">
+			<pos>1 1</pos>
+		</text>
+
+		<text name="md_lbl_favorite">
+			<pos>1 1</pos>
+		</text>
+		<text name="md_favorite">
+			<pos>1 1</pos>
+		</text>
+		
+		<text name="md_lbl_rating">
+			<pos>1 1</pos>
+			<fontPath>./../arts/blank.ttf</fontPath>
+		</text>
+		
+		
+		<rating name="md_rating">
+			<pos>1 1</pos>
+			<filledPath>./../arts/rating_filled.svg</filledPath>
+			<unfilledPath>./../arts/rating_empty.svg</unfilledPath>
+			<size>0.04 0.03</size>
+		</rating>
+
+		<text name="md_description">
+			<lineSpacing>1.2</lineSpacing>
+			<pos>0.04 0.53</pos>
+			<size>0.92 0.14</size>
+			<fontSize>0.02</fontSize>
+		</text>
+
+		<textlist name="gamelist">
+			<pos>0.04 0.73</pos>
+			<size>0.92 0.19</size>
+			<alignment>center</alignment>
+			<horizontalMargin>0.01</horizontalMargin>
+		</textlist>
+		
+		<!-- this block avoids controls layout additional elements to interfer when mixing layouts-->
+		<image name="controls" extra="false">
+			<pos>1 1</pos>
+		</image>
+		<text name="control" extra="false">
+		</text>
+		<image name="backtext4" extra="false">
+		</image>
+		
+	</view>
+	
+	<view name="basic">
+		<image name="backtext1" extra="true">
+			<pos>0.02 0.19</pos>
+			<size>0.96 0.735</size>
+			<origin>0 0</origin>
+			<path>./../arts/back90.png</path>
+		</image>
+		<textlist name="gamelist">
+			<pos>0.04 0.21</pos>
+			<size>0.92 0.695</size>
+			<alignment>center</alignment>
+			<horizontalMargin>0.01</horizontalMargin>
+		</textlist>
+	</view>
+</theme>

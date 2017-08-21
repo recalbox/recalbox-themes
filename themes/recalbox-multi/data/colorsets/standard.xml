@@ -31,6 +31,17 @@
 			<primaryColor>262626</primaryColor>
 			<secondaryColor>4d4d4d</secondaryColor>
 		</textlist>
+		
+		<!-- this block is only to force drawing of color bands BEFORE text background-->
+		<image name="band1" extra="true">
+		</image>
+		<image name="band2" extra="true">
+		</image>
+		<image name="band3" extra="true">
+		</image>
+		<image name="band4" extra="true">
+		</image>
+		
 	</view>
 	
 	<view name="basic">
@@ -46,6 +57,12 @@
 		<image name="backtext3" extra="true">
 			<color>9F9F9F</color>
 		</image>
+		<image name="backtext4" extra="true">
+			<color>9F9F9F</color>
+		</image>
+		<image name="backtext5" extra="true">
+			<color>9F9F9F</color>
+		</image>
 	
 		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite, md_developer, md_publisher, md_genre, md_players, md_playcount, md_favorite, md_description">
 			<color>262626</color>
@@ -53,6 +70,15 @@
 		<datetime name="md_releasedate, md_lastplayed">
 			<color>262626</color>
 		</datetime>
+		<text name="control" extra="true">
+			<color>262626</color>
+		</text>
+		<text name="no_image" extra="true">
+			<color>262626</color>
+		</text>
+		<image name="controls" extra="true">
+			<color>262626</color>
+		</image>
 	</view>
 	
 </theme>

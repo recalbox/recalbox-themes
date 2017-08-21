@@ -1,29 +1,73 @@
-Theme 'recalbox' released by Recalbox's Community
+Theme 'recalbox-multi' released by Supernature2k from theme 'recalbox' made by Recalbox's community
 For use with EmulationStation (http://www.emulationstation.org/)
 
 
 Screenshots
 ===========
 
-Startup Screen
-![Startup](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox/screenshots/startup.png)
+Main screen
+![main screen](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox-multi/screenshots/1.png)
 
-Detail View with scraped info
-![Detail](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox/screenshots/detail.png)
+standard layout / darker colorset
+![standard/darker](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox-multi/screenshots/2.png)
 
-Detail View without scraped info
-![NonScraped](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox/screenshots/nonscraped.png)
+
+white & black colorset
+![w&b](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox-multi/screenshots/3.png)
+
+
+no description layout / white & black colorset
+![nodesc/w&b](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox-multi/screenshots/4.png)
+
+
+big picture layout / black & white colorset
+![bigpicture/b&w](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox-multi/screenshots/5.png)
+
+
+portrait layout / bluechoco colorset
+![portrait/bluechoco](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox-multi/screenshots/6.png)
+
+
+supernature2k layout / darker colorset
+![supernature2k/darker](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox-multi/screenshots/7.png)
+
+
+
+controls layout / darker colorset
+![controls/darker](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox-multi/screenshots/8.png)
+
+
+config file
+![config](https://raw.githubusercontent.com/recalbox/recalbox-themes/master/resources/recalbox-multi/screenshots/9.png)
 
 
 Changelog
 =========
 
+13/05/2017
+
+V2.0
+
+- position of console, controller, game and logo are now set globally in each layout
+- position of system info is now set globally in each layout
+- 3 new layouts: crt, tinyscreen and vertical
+- megadrive/32x/segacd/snes/nes/pce/pcecd/dreamcast have region variation setable in a config file in each directory
+- various tweaks, cleanup of useless files
+
+24/02/2017
+
+V1.1
+
+- several improvments
+- new colorsets
+- new controls layout with standard controller layout image for each system
+
 25/08/2016
 
 V1.0.11
 
--changed per system icons as default
--added several icons made by Paradadf
+- changed per system icons as default
+- added several icons made by Paradadf
 
 23/08/2016
 
@@ -32,8 +76,8 @@ V1.0.0
 
 Credits
 =======
--Supernature2k
--Paradadf
+- Supernature2k
+- Paradadf
 
 Original work from
 Recalbox's community :

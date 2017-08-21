@@ -2,6 +2,16 @@
     <formatVersion>4</formatVersion>
 	
 	
+	<!--   Color config, uncomment the one to be used and comment ALL others -->
+	
+	<include>./colorsets/standard.xml</include>
+	<!--<include>./colorsets/darker.xml</include>-->
+	<!--<include>./colorsets/bluechoco.xml</include>-->
+	<!--<include>./colorsets/blackandwhite.xml</include>-->
+	<!--<include>./colorsets/whiteandblack.xml</include>-->
+	<!--<include>./colorsets/standard_noinfo.xml</include>-->
+	
+		
 	<!--   Layout config, uncomment the one to be used and comment ALL others -->
 	
 	<include>./layouts/standard-landscape.xml</include>
@@ -9,15 +19,9 @@
 	<!--<include>./layouts/standard-big_picture.xml</include>-->
 	<!--<include>./layouts/standard-nodesc.xml</include>-->
 	<!--<include>./layouts/Supernature2k.xml</include>-->
-	
-	
-	
-	<!--   Color config, uncomment the one to be used and comment ALL others -->
-	
-	<include>./colorsets/standard.xml</include>
-	<!--<include>./colorsets/darker.xml</include>-->
-
-
-
+	<!--<include>./layouts/controls.xml</include>-->
+	<!--<include>./layouts/vertical.xml</include>-->
+	<!--<include>./layouts/crt.xml</include>-->
+	<!--<include>./layouts/tinyscreen.xml</include>-->
 	
 </theme>

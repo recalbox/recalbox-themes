@@ -1,0 +1,30 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<include>./data/us/colors.xml</include>
+	
+
+	<view name="system, basic, detailed">
+		<image name="logo">
+			<path>./data/us/logo.svg</path>
+		</image> 
+		
+		<image name="consolegame" extra="true">
+			<path>./data/us/consolegame.svg</path>
+		</image>
+	</view>
+	
+	<view name="system">
+		<image name="controller" extra="true">
+			<path>./data/us/controller.svg</path>
+		</image>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="console" extra="true">
+			<path>./data/us/console.svg</path>
+		</image>
+	</view>
+	
+			
+</theme>
